@@ -14,7 +14,7 @@
   * [Off-field](team-roles/untitled/off-field.md)
   * [Burst](team-roles/untitled/burst.md)
 * [Support](team-roles/support/README.md)
-  * [Burst](team-roles/support/burst.md)
+  * [Buffer](team-roles/support/burst.md)
   * [Crowd Control \(CC\)](team-roles/support/cc.md)
   * [Battery](team-roles/support/battery.md)
   * [Survivability](team-roles/support/utility.md)
