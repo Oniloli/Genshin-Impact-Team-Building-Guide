@@ -17,7 +17,7 @@
   * [Burst](team-roles/support/burst.md)
   * [Crowd Control \(CC\)](team-roles/support/cc.md)
   * [Battery](team-roles/support/battery.md)
-  * [Utility](team-roles/support/utility.md)
+  * [Survivability](team-roles/support/utility.md)
 
 ## Characters
 
