@@ -77,30 +77,30 @@ There are characters where they can perform both a Sustained and Burst role but 
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Ganyu</td>
       <td style="text-align:left">
         <p>Ganyu is an extremely powerful ranged Cryo DPS who primarily utilizes
-          her unique Charged Shot to dish out consistent burst damage.</p>
-        <p>Being a Cryo character, she has access to both Freeze and Melt teams,
-          Freeze allows her to more easily land Charged Shots and prevent counter
-          attacks from enemies when paired with Hydro characters, and Melt teams
-          can skyrocket her DPS with consistent Pyro application from characters
-          such as Xiangling.</p>
+          her unique Charged Shot to dish out <b>consistent burst damage.</b> 
+        </p>
+        <p>Being a Cryo character, she has access to both <b>Freeze and Melt</b> teams,
+          Freeze allows her to more <b>easily land Charged Shots</b> and <b>prevent counter attacks</b> from
+          enemies when paired with Hydro characters, and Melt teams can <b>skyrocket her DPS</b> with <b>consistent Pyro application</b> from
+          characters such as Xiangling.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Hu Tao</td>
       <td style="text-align:left">
-        <p>Hu Tao is a unique Pyro DPS who has access to both extreme sustained DPS
-          with her Elemental Skill Charge Attack spam and high Burst damage with
-          her Elemental Burst, at the cost of having a higher DPS downtime than most
-          other characters in her category and a unique health cost mechanic.</p>
-        <p>When built as a sustained DPS, her team compositions are very similar
-          to Diluc&#x2019;s as she relies on consistent Hydro application for Vaporize
-          procs, making her pair extremely well with Xingqiu and also scales well
-          with supports that increase her Elemental Mastery or debuffs enemy Elemental
-          resistances.</p>
-        <p>Since Hu Tao gains a damage bonus when below half health from her Ascension
-          talent, you should typically avoid using dedicated healers that will put
-          her over this threshold.</p>
+        <p>Hu Tao is a unique Pyro DPS who has <b>access to both</b> extreme <b>sustained DPS</b> with
+          her Elemental Skill Charge Attack spam and high <b>Burst damage</b> with
+          her Elemental Burst, at the <b>cost of having a higher DPS downtime</b> than
+          most other characters in her category and a unique <b>health cost mechanic.</b> 
+        </p>
+        <p>When built as a sustained DPS, her <b>team compositions</b> are very <b>similar to Diluc&#x2019;s</b> as
+          she relies on <b>consistent Hydro application</b> for Vaporize procs, making
+          her pair extremely well with Xingqiu and also scales well with supports
+          that increase her Elemental Mastery or debuffs enemy Elemental resistances.</p>
+        <p>Since Hu Tao gains a <b>damage bonus</b> when <b>below half health</b> from
+          her Ascension talent, you should typically <b>avoid using</b> dedicated <b>healers</b> that
+          will put her over this threshold.</p>
       </td>
     </tr>
     <tr>
