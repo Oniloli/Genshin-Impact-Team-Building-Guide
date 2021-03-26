@@ -28,13 +28,11 @@
 
 * Vaporise Burst Team
 
-**In-depth Amber Guide here:** 
+**In-depth Amber Guide here:**
 
-{% embed url="https://docs.google.com/document/d/1\_Xrpd-uTQsthisSlAd1f4KM5I5kyz6idDYK1Kct7w3I/edit" %}
+{% embed url="https://docs.google.com/document/d/1\_Xrpd-uTQsthisSlAd1f4KM5I5kyz6idDYK1Kct7w3I/edit" caption="" %}
 
 \*\*\*\*
-
-
 
 ## Xinyan
 
@@ -64,7 +62,7 @@
 
 **In-depth Xinyan Guide here:**
 
-{% embed url="https://www.youtube.com/watch?v=jXxdGOYel7c" %}
+{% embed url="https://www.youtube.com/watch?v=jXxdGOYel7c" caption="" %}
 
 ## Bennet
 
@@ -93,7 +91,7 @@
 
 **In-Depth Bennet Guide Here:**
 
-{% embed url="https://youtu.be/43x\_7cRoHPM" %}
+{% embed url="https://youtu.be/43x\_7cRoHPM" caption="" %}
 
 ## Xiangling
 
@@ -124,14 +122,12 @@
 **In-Depth Xiangling Guide Here:**
 
 {% tabs %}
-{% tab title="General" %}
-{% embed url="https://www.youtube.com/watch?v=sG7tDPIs2Ms&t" %}
-{% endtab %}
 
-{% tab title="Pyro Burst" %}
-{% embed url="https://www.youtube.com/watch?v=HOli508CkJY&t" %}
-{% endtab %}
-{% endtabs %}
+
+
+{% embed url="https://www.youtube.com/watch?v=sG7tDPIs2Ms&t" caption="" %}
+
+{% embed url="https://www.youtube.com/watch?v=HOli508CkJY&t" caption="" %}
 
 \*\*\*\*
 
@@ -140,8 +136,6 @@
 ![](../.gitbook/assets/character_klee_portrait.png)
 
 ### Character Role: Main DPS \(Sustained\)**, Utility \(Debuffer C2\)**
-
-
 
 **Main Damage Source: Charged Attack**
 
@@ -165,13 +159,7 @@
 **In-Depth Klee Guide Here:**
 
 {% tabs %}
-{% tab title="Animation Cancel" %}
-{% embed url="https://youtu.be/gm0J77--zYI" %}
-{% endtab %}
-
 {% tab title="General Guide" %}
-{% embed url="https://docs.google.com/document/d/13YPlEOv0lSN8YQQLd0IaQktouhuDsCdP-RGQWt6Tkrk/edit\#" %}
-{% endtab %}
 {% endtabs %}
 
 ## Diluc
@@ -194,7 +182,7 @@
 
 * Easy to Learn
 * **C2, C4 and C6** Increases DMG of his E and Normal Attack Combo
-* Can use a hard-to-master ****technique to deal more DPS than Normal Attacks
+* Can use a hard-to-master _\*\*_technique to deal more DPS than Normal Attacks
 
 **Synergies:**
 
@@ -203,16 +191,12 @@
 **In-Depth Diluc Guide Here:**
 
 {% tabs %}
-{% tab title="General" %}
-{% embed url="https://youtu.be/oVxa4um-F4Y" %}
-{% endtab %}
-
-{% tab title="Dragonstrike Technique " %}
-{% embed url="https://youtu.be/4kYeUdpqTXg" %}
-{% endtab %}
-{% endtabs %}
 
 
+
+{% embed url="https://youtu.be/oVxa4um-F4Y" caption="" %}
+
+{% embed url="https://youtu.be/4kYeUdpqTXg" caption="" %}
 
 ## Hu Tao
 
@@ -243,5 +227,5 @@
 
 In-Depth Hu Tao Guide Here:
 
-{% embed url="https://keqingmains.com/hu-tao/" %}
+{% embed url="https://keqingmains.com/hu-tao/" caption="" %}
 

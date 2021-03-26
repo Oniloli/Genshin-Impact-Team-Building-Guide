@@ -27,7 +27,7 @@
 
 **In-Depth Kaeya Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=VJvMgJJxhBs" %}
+{% embed url="https://www.youtube.com/watch?v=VJvMgJJxhBs" caption="" %}
 
 ## **Diona**
 
@@ -57,7 +57,7 @@
 
 **In-Depth Diona Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=WHfLoFt3ols" %}
+{% embed url="https://www.youtube.com/watch?v=WHfLoFt3ols" caption="" %}
 
 ## **Chongyun**
 
@@ -85,15 +85,11 @@
 
 {% tabs %}
 {% tab title="Melt Guide" %}
-{% embed url="https://www.youtube.com/watch?v=oAPMiGEk6ks" %}
-{% endtab %}
 
 {% tab title="Shatter Guide" %}
-{% embed url="https://www.youtube.com/watch?v=Bm2WKKUdbqM" %}
-{% endtab %}
 
 {% tab title="Weapons" %}
-{% embed url="https://www.youtube.com/watch?v=ODjoY8UT6aY" %}
+{% embed url="https://www.youtube.com/watch?v=ODjoY8UT6aY" caption="" %}
 {% endtab %}
 {% endtabs %}
 
@@ -124,7 +120,7 @@
 
 **In-Depth Ganyu Guide Here:**
 
-{% embed url="https://keqingmains.com/ganyu/" %}
+{% embed url="https://keqingmains.com/ganyu/" caption="" %}
 
 ## **Qiqi**
 
@@ -151,5 +147,5 @@
 
 **In-Depth Qiqi Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=Pm5qVlbrwDA" %}
+{% embed url="https://www.youtube.com/watch?v=Pm5qVlbrwDA" caption="" %}
 

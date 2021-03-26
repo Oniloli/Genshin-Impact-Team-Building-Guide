@@ -9,7 +9,7 @@ These are units who are the core of the team. Their main goal most of the time i
 | Sustained | Burst \(QuickSwap\) |
 | :---: | :---: |
 | Characters that spends the most time active on the field. The DPS is the main focus of the team. There should only be 1 main DPS in a team. | Characters who deal the majority of their damage in one instance mainly through elemental bursts. They then swap out until their burst is fully recharged. |
-| Example characters | Example characters  |
+| Example characters | Example characters |
 
 ## Sub DPS
 

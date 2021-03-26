@@ -28,7 +28,7 @@
 
 **In-Depth Lisa Guide Here:**
 
-{% embed url="https://keqingmains.com/lisa/" %}
+{% embed url="https://keqingmains.com/lisa/" caption="" %}
 
 ## **Fischl**
 
@@ -57,7 +57,7 @@
 
 **In-Depth Fischl Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=S1ZqUitlyOY&t=301s" %}
+{% embed url="https://www.youtube.com/watch?v=S1ZqUitlyOY&t=301s" caption="" %}
 
 ## **Beidou**
 
@@ -86,7 +86,7 @@
 
 **In-Depth Biedou Guide Here:**
 
-{% embed url="https://keqingmains.com/beidou/" %}
+{% embed url="https://keqingmains.com/beidou/" caption="" %}
 
 ## Razor
 
@@ -113,7 +113,7 @@
 
 **In-Depth Razor Guide Here:**
 
-{% embed url="https://keqingmains.com/razor/" %}
+{% embed url="https://keqingmains.com/razor/" caption="" %}
 
 ## **Keqing**
 
@@ -142,5 +142,5 @@
 
 **In-Depth Keqing Guide Here:**
 
-{% embed url="https://keqingmains.com/keqing/" %}
+{% embed url="https://keqingmains.com/keqing/" caption="" %}
 

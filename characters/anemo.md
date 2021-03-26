@@ -1,7 +1,7 @@
 # Anemo
 
 {% hint style="info" %}
-All Anemo Characters can use a 4-set **Viridescent Venerer.**  The effect description in-game says:  
+All Anemo Characters can use a 4-set **Viridescent Venerer.** The effect description in-game says:  
 _"Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."_  
 This means that any anemo character can be **Debuffers** and is a must have for almost all anemo **support** characters. **Do not** put this set on an Anemo **Main DPS** as they don't benefit from this set.
 {% endhint %}
@@ -30,13 +30,13 @@ For the Elemental Debuff to **take effect** the character with the set **must be
 * **C1** allows her to gain an extra charge on Elemental Skill
 * Sets up Elemental combos for Main DPS
 
-#### **Synergies:** 
+#### **Synergies:**
 
 * Melt/Vaporise Team
 
 **In-Depth Sucrose Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=IBFehKHX81w" %}
+{% embed url="https://www.youtube.com/watch?v=IBFehKHX81w" caption="" %}
 
 ## Traveler
 
@@ -64,7 +64,7 @@ For the Elemental Debuff to **take effect** the character with the set **must be
 
 **In-Depth Anemo Traveler Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=10EHzNMN2dw" %}
+{% embed url="https://www.youtube.com/watch?v=10EHzNMN2dw" caption="" %}
 
 ## Jean
 
@@ -92,7 +92,7 @@ For the Elemental Debuff to **take effect** the character with the set **must be
 
 **In-Depth Jean Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=YZa2V5bZeZ0" %}
+{% embed url="https://www.youtube.com/watch?v=YZa2V5bZeZ0" caption="" %}
 
 ## Venti
 
@@ -122,7 +122,7 @@ For the Elemental Debuff to **take effect** the character with the set **must be
 
 **In-Depth Venti Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=hFpkJ\_tafI0" %}
+{% embed url="https://www.youtube.com/watch?v=hFpkJ\_tafI0" caption="" %}
 
 ## Xiao
 
@@ -151,7 +151,7 @@ For the Elemental Debuff to **take effect** the character with the set **must be
 
 **In-Depth Xiao Guide Here:**
 
-{% embed url="https://keqingmains.com/xiao/" %}
+{% embed url="https://keqingmains.com/xiao/" caption="" %}
 
 \*\*\*\*
 

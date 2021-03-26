@@ -36,7 +36,7 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 
 **In-Depth Geo Traveler Guide Here:**
 
-{% embed url="https://youtu.be/B4urG2XDKWk" %}
+{% embed url="https://youtu.be/B4urG2XDKWk" caption="" %}
 
 ## **Ningguang**
 
@@ -65,7 +65,7 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 
 **In-Depth Ningguang Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=LSbHHu7dfJs&t=536s" %}
+{% embed url="https://www.youtube.com/watch?v=LSbHHu7dfJs&t=536s" caption="" %}
 
 ## **Noelle**
 
@@ -96,11 +96,9 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 
 {% tabs %}
 {% tab title="Part 1" %}
-{% embed url="https://www.youtube.com/watch?v=c7d5SygN0Vs" %}
-{% endtab %}
 
 {% tab title="Part 2" %}
-{% embed url="https://www.youtube.com/watch?v=C6Kzpho37vM" %}
+{% embed url="https://www.youtube.com/watch?v=C6Kzpho37vM" caption="" %}
 {% endtab %}
 {% endtabs %}
 
@@ -130,7 +128,7 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 
 **In-Depth Zhongli Guide Here:**
 
-{% embed url="https://keqingmains.com/zhong-li/" %}
+{% embed url="https://keqingmains.com/zhong-li/" caption="" %}
 
 ## **Albedo**
 
@@ -156,5 +154,5 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 
 **In-Depth Albedo Guide Here:**
 
-{% embed url="https://keqingmains.com/full-albedo-guide/" %}
+{% embed url="https://keqingmains.com/full-albedo-guide/" caption="" %}
 

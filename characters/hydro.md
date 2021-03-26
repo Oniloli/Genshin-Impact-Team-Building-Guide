@@ -27,9 +27,7 @@
 
 **In-Depth Barbara Guide Here:**
 
-{% embed url="https://youtu.be/a4gKcqB-4Y8" %}
-
-
+{% embed url="https://youtu.be/a4gKcqB-4Y8" caption="" %}
 
 ## **Xingqiu**
 
@@ -59,7 +57,7 @@
 
 **In-Depth Xingqiu Guide Here:**
 
-{% embed url="https://youtu.be/G\_DEdLN2lUA" %}
+{% embed url="https://youtu.be/G\_DEdLN2lUA" caption="" %}
 
 ## Tartaglia
 
@@ -91,11 +89,9 @@
 
 {% tabs %}
 {% tab title="General" %}
-{% embed url="https://www.youtube.com/watch?v=NMNlztzBnlk" %}
-{% endtab %}
 
 {% tab title="Firework \(Electrocharged\)" %}
-{% embed url="https://www.youtube.com/watch?v=vhCRTjYQCWE" %}
+{% embed url="https://www.youtube.com/watch?v=vhCRTjYQCWE" caption="" %}
 {% endtab %}
 {% endtabs %}
 
@@ -126,7 +122,7 @@
 
 **In-Depth Mona Guide Here:**
 
-{% embed url="https://www.youtube.com/watch?v=Z45\_KKCpIzE" %}
+{% embed url="https://www.youtube.com/watch?v=Z45\_KKCpIzE" caption="" %}
 
 \*\*\*\*
 
