@@ -21,13 +21,15 @@ There are characters where they can perform both a Sustained and Burst role but 
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         <br />Diluc</td>
       <td style="text-align:left">
-        <p>Diluc is a sustained DPS that focuses purely on Pyro damage from each
-          part of his kit. His Burst <b>infuses</b> his <b>Normal and Charged</b> attacks
-          with <b>Pyro damage</b> and combos well with his Elemental skill in DPS rotations.</p>
-        <p>Thanks to his constant Pyro DPS, Diluc scales extremely well with supports
-          that can enable a high frequency of Elemental Reactions, typically Vaporize,
-          such as Xingqiu, and can be further boosted by supports that boost his
-          Elemental Mastery or shreds Elemental resistances.</p>
+        <ul>
+          <li>Diluc is a sustained DPS that focuses purely on Pyro damage from each
+            part of his kit. His Burst <b>infuses</b> his <b>Normal and Charged</b> attacks
+            with <b>Pyro damage</b> and combos well with his Elemental skill in DPS rotations.</li>
+          <li>Thanks to his constant Pyro DPS, Diluc scales extremely well with supports
+            that can enable a high frequency of Elemental Reactions, typically Vaporize,
+            such as Xingqiu, and can be further boosted by supports that boost his
+            Elemental Mastery or shreds Elemental resistances.</li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -35,20 +37,21 @@ There are characters where they can perform both a Sustained and Burst role but 
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         <br />Razor</td>
       <td style="text-align:left">
-        <p>Razor is a <b>selfish sustained DPS</b> that focuses primarily on dishing
-          out powerful Physical attacks from his Normal Attack chain but also has
-          extra Electro Damage in his kit.</p>
-        <p>He pairs well with characters who can consistently <b>apply Cryo</b> from
-          off-field to keep enemies <b>debuffed with Superconduct</b> such as Qiqi
-          and characters who can keep him healthy during his Burst.</p>
-        <p>Electro batteries are also a strong option with Razor to give him more
-          Burst uptime.</p>
+        <ul>
+          <li>Razor is a <b>selfish sustained DPS</b> that focuses primarily on dishing
+            out powerful Physical attacks from his Normal Attack chain but also has
+            extra Electro Damage in his kit.</li>
+          <li>He pairs well with characters who can consistently <b>apply Cryo</b> from
+            off-field to keep enemies <b>debuffed with Superconduct</b> such as Qiqi
+            and characters who can keep him healthy during his Burst.</li>
+          <li>Electro batteries are also a strong option with Razor to give him more
+            Burst uptime.</li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
-      </td>
+        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Klee</td>
       <td style="text-align:left">
         <p>Klee is a <b>very high-burst</b> Pyro mage who can dish out incredibly high
           damage in short amounts of time.</p>
@@ -65,7 +68,7 @@ There are characters where they can perform both a Sustained and Burst role but 
         <p>Noelle is a beefy Geo DPS with <b>large AoE attacks</b> who, despite having
           many support elements mixed into her kit, still ultimately <b>plays like a main DPS</b>.</p>
         <p>Being a Geo character, she is <b>not reliant on elemental reactions</b> whatsoever
-          for her damage and relies more on more straightforward <b>buffer-type supports</b> such
+          for her damage and <b>relies more</b> on more straightforward <b>buffer-type supports</b> such
           as Zhongli to increase her damage.</p>
         <p>She is <b>extremely reliant</b> on her <b>Burst</b> to deal damage and as
           such should <b>always be paired with another Geo</b> to act as a <b>battery</b> for
