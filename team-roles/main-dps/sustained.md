@@ -63,14 +63,13 @@ There are characters where they can perform both a Sustained and Burst role but 
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Noelle</td>
       <td style="text-align:left">
         <p>Noelle is a beefy Geo DPS with <b>large AoE attacks</b> who, despite having
-          many support elements mixed into her kit, still ultimately plays like a
-          main DPS.</p>
-        <p>Being a Geo character, she is not reliant on elemental reactions whatsoever
-          for her damage and relies more on more straightforward buffer-type supports
-          such as Zhongli to increase her damage.</p>
-        <p>She is extremely reliant on her Burst to deal damage and as such should
-          always be paired with another Geo to act as a battery for her as well as
-          grant her Geo Resonance buffs.</p>
+          many support elements mixed into her kit, still ultimately <b>plays like a main DPS</b>.</p>
+        <p>Being a Geo character, she is <b>not reliant on elemental reactions</b> whatsoever
+          for her damage and relies more on more straightforward <b>buffer-type supports</b> such
+          as Zhongli to increase her damage.</p>
+        <p>She is <b>extremely reliant</b> on her <b>Burst</b> to deal damage and as
+          such should <b>always be paired with another Geo</b> to act as a <b>battery</b> for
+          her as well as grant her <b>Geo Resonance</b> buffs.</p>
       </td>
     </tr>
     <tr>
