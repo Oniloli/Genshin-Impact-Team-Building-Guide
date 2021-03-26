@@ -21,7 +21,6 @@
 * [Team Roles \(reference\)](team-roles/team-roles-old.md)
 * [Main DPS](team-roles/main-dps/README.md)
   * [Sustained](team-roles/main-dps/sustained.md)
-  * [Untitled](team-roles/main-dps/untitled.md)
   * [Burst \(Quickswap\)](team-roles/main-dps/burst-quickswap.md)
 * [Sub DPS](team-roles/untitled/README.md)
   * [Off-field](team-roles/untitled/off-field.md)

@@ -18,7 +18,7 @@ There are characters where they can perform both a Sustained and Burst role but 
   <tbody>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+        <img src="../../.gitbook/assets/ui_avataricon_diluc.png" alt/>
         <br />Diluc</td>
       <td style="text-align:left">
         <ul>
@@ -34,7 +34,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+        <img src="../../.gitbook/assets/ui_avataricon_razor.png" alt/>
         <br />Razor</td>
       <td style="text-align:left">
         <ul>
@@ -44,14 +44,14 @@ There are characters where they can perform both a Sustained and Burst role but 
           <li>He pairs well with characters who can consistently <b>apply Cryo</b> from
             off-field to keep enemies <b>debuffed with Superconduct</b> such as Qiqi
             and characters who can keep him healthy during his Burst.</li>
-          <li>Electro batteries are also a strong option with Razor to give him more
-            Burst uptime.</li>
+          <li><b>Electro batteries</b> are also a strong option with Razor to give him
+            more Burst uptime.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Klee</td>
+        <img src="../../.gitbook/assets/ui_avataricon_klee.png" alt/>Klee</td>
       <td style="text-align:left">
         <ul>
           <li>Klee is a <b>very high-burst</b> Pyro mage who can dish out incredibly high
@@ -65,7 +65,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Noelle</td>
+        <img src="../../.gitbook/assets/ui_avataricon_noelle.png" alt/>Noelle</td>
       <td style="text-align:left">
         <ul>
           <li>Noelle is a beefy Geo DPS with <b>large AoE attacks</b> who, despite having
@@ -81,7 +81,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Ganyu</td>
+        <img src="../../.gitbook/assets/ui_avataricon_ganyu.png" alt/>Ganyu</td>
       <td style="text-align:left">
         <ul>
           <li>Ganyu is an extremely powerful ranged Cryo DPS who primarily utilizes
@@ -96,7 +96,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Hu Tao</td>
+        <img src="../../.gitbook/assets/ui_avataricon_hutao.png" alt/>Hu Tao</td>
       <td style="text-align:left">
         <ul>
           <li>Hu Tao is a unique Pyro DPS who has <b>access to both</b> extreme <b>sustained DPS</b> with
@@ -116,7 +116,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Keqing</td>
+        <img src="../../.gitbook/assets/ui_avataricon_keqing.png" alt/>Keqing</td>
       <td style="text-align:left">
         <ul>
           <li>Keqing is a mobile DPS who can choose to focus on dealing either <b>Physical</b> or <b>Electro</b> damage.</li>
@@ -130,10 +130,10 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Ningguang</td>
+        <img src="../../.gitbook/assets/ui_avataricon_amber.png" alt/>Ningguang</td>
       <td style="text-align:left">
         <ul>
-          <li>Ningguang is a Geo mage who has access to both powerful <b>sustained DPS</b> and
+          <li>Ningguang is a Geo DPS who has access to both powerful <b>sustained DPS</b> and
             a <b>strong burst</b> damage rotation.</li>
           <li>Like Noelle, being a Geo character means Ningguang is <b>not reliant on any Elemental reactions</b> for
             her damage and instead <b>relies more</b> on straightforward damage <b>buffers</b> such
@@ -147,7 +147,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Xiao</td>
+        <img src="../../.gitbook/assets/ui_avataricon_xiao.png" alt/>Xiao</td>
       <td style="text-align:left">
         <ul>
           <li>Xiao is an <b>extremely selfish</b> Anemo DPS with huge <b>AoE</b> plunging
@@ -163,18 +163,18 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>Tartaglia</td>
+        <img src="../../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>Tartaglia</td>
       <td style="text-align:left">
         <ul>
           <li>A Hydro DPS who primarily uses his Elemental Skill when played as a sustain
             DPS to deal rapid melee damage.</li>
-          <li>Tartaglia is unique among the DPS that utilize multiplicative reactions
-            such as Melt and Vaporize due to the fact that his attacks outside of his
-            Burst are rarely the trigger to these reactions, as such he has more options
-            for DPS compositions than most other similar DPS.</li>
-          <li>A sustained DPS Tartaglia scales well with consistent Electro application
-            supports such as Fischl and Beidou for Electro-Charged damage thanks to
-            his fast attack rate and also scales well with direct damage buffers such
+          <li>Tartaglia is unique among the DPS that utilize <b>multiplicative reactions</b> such
+            as <b>Melt</b> and <b>Vaporize</b> due to the fact that his attacks outside
+            of his Burst <b>rarely trigger these reactions</b>, as such he has more
+            options for DPS compositions than most other similar DPS.</li>
+          <li>A sustained DPS Tartaglia <b>scales well</b> with consistent <b>Electro application</b> supports
+            such as Fischl and Beidou for <b>Electro-Charged</b> damage thanks to his
+            fast attack rate and also scales well with direct damage <b>buffers</b> such
             as Bennett.</li>
         </ul>
       </td>
