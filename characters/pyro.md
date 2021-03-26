@@ -66,7 +66,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=jXxdGOYel7c" %}
 
-## Bennet
+## Bennett
 
 ![](../.gitbook/assets/character_bennett_portrait.png)
 
@@ -91,7 +91,7 @@
 
 * Works in **Every** Single Team!
 
-**In-Depth Bennet Guide Here:**
+**In-Depth Bennett Guide Here:**
 
 {% embed url="https://youtu.be/43x\_7cRoHPM" %}
 

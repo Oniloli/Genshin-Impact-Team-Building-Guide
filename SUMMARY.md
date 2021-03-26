@@ -4,6 +4,15 @@
 * [General FAQ](general-faq.md)
 * [Glossary](glossary.md)
 
+## Characters
+
+* [Anemo](characters/anemo.md)
+* [Pyro](characters/pyro.md)
+* [Hydro](characters/hydro.md)
+* [Cryo](characters/cryo.md)
+* [Electro](characters/electro.md)
+* [Geo](characters/geo.md)
+
 ## Team Roles
 
 * [Team Roles \(reference\)](team-roles/team-roles-old.md)
@@ -19,24 +28,17 @@
   * [Battery](team-roles/support/battery.md)
   * [Survivability](team-roles/support/utility.md)
 
-## Characters
-
-* [Anemo](characters/anemo.md)
-* [Pyro](characters/pyro.md)
-* [Hydro](characters/hydro.md)
-* [Cryo](characters/cryo.md)
-* [Electro](characters/electro.md)
-* [Geo](characters/geo.md)
-
 ## Team Examples <a id="teams"></a>
 
 * [Sustained](teams/sustained/README.md)
-  * [Melt/Vaporise](teams/sustained/melt-vaporise-comp.md)
+  * [Melt](teams/sustained/melt.md)
+  * [Vaporise](teams/sustained/vaporise.md)
   * [Physical](teams/sustained/physical.md)
   * [Permafreeze](teams/sustained/permafreeze.md)
   * [Geo](teams/sustained/geo.md)
   * [Electro](teams/sustained/electro.md)
 * [Burst \(Quickswap\)](teams/burst.md)
+* [Untitled](teams/untitled-1.md)
 * [Abyss Teams](teams/untitled/README.md)
   * [General Abyss Teams](teams/untitled/general-abyss-teams.md)
   * [Floor Specific Teams](teams/untitled/floor-specific-teams/README.md)
