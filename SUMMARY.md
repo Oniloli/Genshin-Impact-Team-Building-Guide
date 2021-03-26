@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Team Building Intro](README.md)
-* [General FAQ](general-faq.md)
+* [General](general/README.md)
+  * [FAQ](general/general-faq.md)
+  * [Synergy](general/synergy.md)
+  * [Dessynergy](general/dessynergy.md)
 * [Glossary](glossary.md)
 
 ## Characters
@@ -37,8 +40,8 @@
   * [Permafreeze](teams/sustained/permafreeze.md)
   * [Geo](teams/sustained/geo.md)
   * [Electro](teams/sustained/electro.md)
-* [Burst \(Quickswap\)](teams/burst.md)
-* [Untitled](teams/untitled-1.md)
+* [Burst \(Quickswap\)](teams/burst/README.md)
+  * [Untitled](teams/burst/untitled-1.md)
 * [Abyss Teams](teams/untitled/README.md)
   * [General Abyss Teams](teams/untitled/general-abyss-teams.md)
   * [Floor Specific Teams](teams/untitled/floor-specific-teams/README.md)

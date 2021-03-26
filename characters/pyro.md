@@ -89,7 +89,7 @@
 
 **Synergies:**
 
-* Works in **Every** Single Team!
+* Works in **Every** Single Team! Except a Hu Tao sustained team.
 
 **In-Depth Bennett Guide Here:**
 
