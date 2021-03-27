@@ -28,7 +28,7 @@
 * [Support](team-roles/support/README.md)
   * [Buffer](team-roles/support/burst.md)
   * [Crowd Control \(CC\)](team-roles/support/cc.md)
-  * [Battery](team-roles/support/battery.md)
+  * [Energy Battery](team-roles/support/battery.md)
   * [Survivability](team-roles/support/utility.md)
 
 ## Team Examples <a id="teams"></a>
