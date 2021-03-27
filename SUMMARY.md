@@ -18,7 +18,7 @@
 
 ## Team Roles
 
-* [Team Roles \(reference\)](team-roles/team-roles-old.md)
+* [Team Roles \(reference. will be deleted\)](team-roles/team-roles-old.md)
 * [Main DPS](team-roles/main-dps/README.md)
   * [Sustained](team-roles/main-dps/sustained.md)
   * [Burst \(Quickswap\)](team-roles/main-dps/burst-quickswap.md)

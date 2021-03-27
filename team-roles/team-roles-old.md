@@ -1,4 +1,4 @@
-# Team Roles \(reference\)
+# Team Roles \(reference. will be deleted\)
 
 ## Main DPS
 
