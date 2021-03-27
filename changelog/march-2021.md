@@ -14,4 +14,13 @@
 | March 23 | Added Team Roles Category with their respective pages | Miko-chan |
 |  | Added Team Examples Category with their respective pages | Miko-chan |
 |  | Fixed minor details on all character pages | Miko-chan |
+| March 25 | Reworked the Team Roles Category pages | Miko-chan |
+|  | Added page contents on Main DPS \(Sustained\) | Miko-chan |
+|  | Added page contents on Main DPS \(Burst\) | Miko-chan |
+| March 26 | Added Synergy and Dessynergy pages | Miko-chan |
+|  | Tweaked page contents on Main DPS \(Sustained\) | Miko-chan |
+|  | Added character list on Main DPS \(Sustained\) | Miko-chan |
+| March 27 | Added page contents on Sub DPS \(off-field\) | Miko-chan |
+|  | Added page contents on Sub DPS \(Burst\) | Miko-chan |
+|  | Tweaked minor details on Geo Page | Miko-chan |
 
