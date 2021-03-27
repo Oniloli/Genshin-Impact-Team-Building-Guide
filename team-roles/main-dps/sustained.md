@@ -1,8 +1,8 @@
 # Sustained
 
-This the one of the two core roles you can have for your entire party. In teams with a Sustained DPS they will be characters that will be doing almost all the DMG output in your team. They will deal their damage consistently over time through combos depending on which character you are playing.
+This the one of the two core roles you can have for your entire party. In teams with a Sustained DPS they will be characters that will be doing **almost all the DMG** output in your team. They will deal their damage **consistently** over time through combos depending on which character you are playing.
 
-The main damage source for a Sustained DPS is normally their Normal and/or their Charged attacks. They can be boosted from elemental reactions and/or from their own elemental skills and supports.
+The main damage source for a Sustained DPS is normally their **Normal** and/or their **Charged attacks**. They can be boosted from elemental reactions and/or from their own elemental skills and supports.
 
 There are characters where they can perform both a Sustained and Burst role but they typically lean better on one or the other.
 

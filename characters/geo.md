@@ -32,7 +32,6 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 **Synergies:**
 
 * Geo Team
-* Pyro Characters
 
 **In-Depth Geo Traveler Guide Here:**
 
@@ -61,7 +60,6 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 **Synergies:**
 
 * Geo Team
-* Pyro Characters
 
 **In-Depth Ningguang Guide Here:**
 
@@ -90,7 +88,6 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 **Synergies:**
 
 * Geo Team
-* Pyro Characters
 
 **In-Depth Noelle Guide Here:**
 
