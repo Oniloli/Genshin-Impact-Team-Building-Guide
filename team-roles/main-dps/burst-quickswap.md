@@ -1,6 +1,6 @@
 # Burst \(Quickswap\)
 
-This the one of the two core roles you can have for your entire party. Burst DPS Teams work differently from Sustained DPS Teams where they would output all of their damage in a single instance, and then go through a downtime period where you'd **recharge** your **energy** or **wait for Cooldown** until you are fully ready to output that damage again.
+This the one of the core roles you can have for your entire party. Burst DPS Teams work differently from Sustained DPS Teams where they would output all of their damage in a single instance, and then go through a downtime period where you'd **recharge** your **energy** or **wait for Cooldown** until you are fully ready to output that damage again.
 
 The main source of damage for Burst DPS is mainly their **Elemental Burst** and/or **Elemental Skill**. They can be boosted from elemental reactions or from their own elemental skills and supports.
 
