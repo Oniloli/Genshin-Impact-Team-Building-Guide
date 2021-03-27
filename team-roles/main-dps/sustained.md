@@ -26,9 +26,10 @@ There are characters where they can perform both a Sustained and Burst role but 
             part of his kit. His Burst <b>infuses</b> his <b>Normal and Charged</b> attacks
             with <b>Pyro damage</b> and combos well with his Elemental skill in DPS rotations.</li>
           <li>Thanks to his constant Pyro DPS, Diluc scales extremely well with supports
-            that can enable a high frequency of Elemental Reactions, typically Vaporize,
-            such as Xingqiu, and can be further boosted by supports that boost his
-            Elemental Mastery or shreds Elemental resistances.</li>
+            that can enable a high frequency of Elemental Reactions, typically <b>Vaporize</b>,
+            such as Xingqiu, and can be further boosted by supports that boost his <b>Elemental Mastery</b> or
+            shreds <b>Elemental resistances.</b>
+          </li>
         </ul>
       </td>
     </tr>
@@ -130,7 +131,7 @@ There are characters where they can perform both a Sustained and Burst role but 
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_amber.png" alt/>Ningguang</td>
+        <img src="../../.gitbook/assets/ui_avataricon_ningguang.png" alt/>Ningguang</td>
       <td style="text-align:left">
         <ul>
           <li>Ningguang is a Geo DPS who has access to both powerful <b>sustained DPS</b> and
