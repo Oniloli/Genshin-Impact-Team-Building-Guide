@@ -6,8 +6,14 @@ The main source of damage for Burst DPS is mainly their **Elemental Burst** and/
 
 A Burst Team is more complicated to use compared to a Sustained Team because you would need your Supports or other Burst DPS to be be invested, and be just as close to being or be as strong as your Main DPS. This is important because when your Burst DPS casts their Skills, the downtime where they wont deal a lot of damage needs to be covered by your other characters in the party until it's ready to be cast again.
 
-{% hint style="info" %}
-Because of amount of **investment** you would put in a Burst DPS Team is **higher** compared to a Sustained DPS Team with the same **level of performance**, it's recommended that you'd only start looking into a burst team at around **AR50+** where you have already invested in a **previous** party beforehand.
+### Burst Playstyles
+
+The first is one focused on **oneshotting** enemies. This specializes in using Melt/Vaporize reactions, and so your team choices are restricted because only **certain characters** work in a oneshot team. The DPS downtime after casting skills is huge and so it's generally only recommended to be used against **Single Targets** like bosses. 
+
+The other playstyle is called **Quickswap** and this works **similar** to a **Sustained DPS** Team. This focuses on switching between characters constantly and using their **Elemental Skills/Elemental Burst** back to back for consistent damage. Because of the constant character switching the characters with a **Low Cooldown** on their skills work very well in quickswap teams.
+
+{% hint style="warning" %}
+Because of amount of **investment** you would put in **most** Burst DPS Teams is **higher** compared to a Sustained DPS Team with the same **level of performance**, it's **recommended** that you'd only start looking into a burst team at around **AR50+** where you have already invested in a **previous** party beforehand.
 {% endhint %}
 
 ## List of Burst DPS Characters
