@@ -4,6 +4,8 @@ This the one of the core roles you can have for your entire party. In teams with
 
 The main damage source for a Sustained DPS is normally their **Normal** and/or their **Charged attacks**. They can be boosted by elemental reactions and/or from their own elemental skills and supports.
 
+Compared to a Burst Main DPS Team a Sustained DPS Team doesn't need as much investment to perform well because of their DPS consistency. Sustained Main DPS are also easier to play since you don't have to worry about **Energy** on their Elemental Bursts as much, and their DPS combos are simple and easy to grasp.
+
 There are characters where they can perform both a Sustained and Burst role but they typically lean better on one or the other.
 
 ## List of Sustained DPS Characters
