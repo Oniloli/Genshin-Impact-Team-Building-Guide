@@ -8,6 +8,10 @@ Compared to a Burst Main DPS Team a Sustained DPS Team doesn't need as much inve
 
 There are characters where they can perform both a Sustained and Burst role but they typically lean better on one or the other.
 
+{% hint style="info" %}
+It's **recommended** that you Invest on your Main DPS first and only put **minimal investment** on your **support**. The support characters in a Sustained Team can still **perform well** with little investment since their skills only used are used to **buff** your Main DPS. You can invest more in supports once you are **satisfied** with the gear your Main DPS has.
+{% endhint %}
+
 ## List of Sustained DPS Characters
 
 <table>
