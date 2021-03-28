@@ -8,7 +8,7 @@ A Burst Team is more complicated to use compared to a Sustained Team because you
 
 ### Burst Playstyles
 
-The first is one focused on **oneshotting** enemies. This specializes in using Melt/Vaporize reactions, and so your team choices are restricted because only **certain characters** work in a oneshot team. The DPS downtime after casting skills is huge and so it's generally only recommended to be used against **Single Targets** like bosses. 
+The first is one focused on **oneshotting** enemies. This specializes in using Melt/Vaporize reactions, and so your team choices are **restricted** because only **certain characters** work in a oneshot team. The DPS downtime after casting skills is huge and so it's generally only recommended to be used against **Single Targets** like bosses. 
 
 The other playstyle is called **Quickswap** and this works **similar** to a **Sustained DPS** Team. This focuses on switching between characters constantly and using their **Elemental Skills/Elemental Burst** back to back for consistent damage. Because of the constant switching of characters, those with a **Low Cooldown** on their skills work very well in quickswap teams.
 
