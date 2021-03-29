@@ -19,9 +19,10 @@
 |  | Added page contents on Main DPS \(Burst\) | Miko-chan |
 | March 26 | Added Synergy and Dessynergy pages | Miko-chan |
 |  | Tweaked page contents on Main DPS \(Sustained\) | Miko-chan |
-|  | Added character list on Main DPS \(Sustained\) | Miko-chan |
+|  | Added character list on Main DPS \(Sustained\) | Shockwhite |
 | March 27 | Added page contents on Sub DPS \(off-field\) | Miko-chan |
 |  | Added page contents on Sub DPS \(Burst\) | Miko-chan |
 |  | Tweaked minor details on Geo Page | Miko-chan |
-| March 29 |  |  |
+| March 29 | Added page contents on Support \(Buffer\) | Miko-chan |
+|  | Added character list on Main DPS \(burst\) | Shockwhite |
 
