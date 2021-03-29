@@ -22,6 +22,10 @@ The current **enemy stats** that can be **debuffed** by characters:
 * Damage
 * % Attack
 
+{% hint style="info" %}
+Artifact stuff here...
+{% endhint %}
+
 ## List of Buffer Characters <a id="list-of-burst-sub-dps-characters"></a>
 
 | ​Title | ​Title |
