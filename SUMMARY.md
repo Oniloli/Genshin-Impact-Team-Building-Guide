@@ -3,8 +3,8 @@
 * [Team Building Intro](README.md)
 * [General](general/README.md)
   * [FAQ](general/general-faq.md)
-  * [Synergy](general/synergy.md)
-  * [Dessynergy](general/dessynergy.md)
+  * [Team Synergy](general/synergy.md)
+  * [Team Dissonance](general/dessynergy.md)
 * [Glossary](glossary.md)
 
 ## Characters

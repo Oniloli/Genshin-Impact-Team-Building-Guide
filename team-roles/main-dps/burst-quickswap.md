@@ -32,14 +32,13 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
         <br />Hu Tao</td>
       <td style="text-align:left">
         <ul>
-          <li>Hu Tao&#x2019;s Elemental Burst is currently one of the hardest-hitting
-            abilities in the game. When built for a Burst playstyle, Hu Tao should
-            prioritize strong Cryo application from characters like Ganyu or Kaeya
-            for Melts.</li>
+          <li>Hu Tao&#x2019;s <b>Elemental Burst</b> is currently one of the <b>hardest-hitting</b> abilities
+            in the game. When built for a Burst playstyle, Hu Tao should <b>prioritize</b> strong <b>Cryo application</b> from
+            characters like Ganyu or Kaeya for Melts.</li>
           <li>Despite Hu Tao typically wanting to stay below half HP, Bennett can still
-            be a strong option here to apply Pyro for Viridescent Venerer debuffs and
+            be a strong option here to apply Pyro for Viridescent Venerer <b>debuffs</b> and
             as an ATK buffer as long as Hu Tao casts her burst while remaining below
-            her half HP threshold.</li>
+            her half HP threshold <b>before</b> the <b>healing</b> kicks in.</li>
         </ul>
       </td>
     </tr>
@@ -49,12 +48,12 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
         <br />Zhongli</td>
       <td style="text-align:left">
         <ul>
-          <li>Zhongli&#x2019;s burst is great for both damage and CC, the extremely
-            low Energy cost on his Burst can make it very spammable and easy to weave
-            into rotations.</li>
-          <li>Zhongli&#x2019;s burst does not require any elemental reaction setups
-            and only strongly benefits from large generic damage buffs and debuffs
-            such as Bennett&#x2019;s Burst, Mona&#x2019;s Omen debuff and Geo Resonance.</li>
+          <li>Zhongli&#x2019;s burst is great for both <b>damage</b> and <b>CC</b>, the
+            extremely <b>low energy cost</b> on his Burst can make it very spammable
+            and easy to weave into rotations.</li>
+          <li>Zhongli&#x2019;s burst <b>does not</b> require any elemental reaction <b>setups</b> and
+            only strongly benefits from large generic damage buffs and debuffs such
+            as Bennett&#x2019;s Burst, Mona&#x2019;s Omen debuff and Geo Resonance.</li>
         </ul>
       </td>
     </tr>
@@ -64,10 +63,11 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
         <br />Tartaglia</td>
       <td style="text-align:left">
         <ul>
-          <li>Tartaglia is well known for his oneshots thanks to the incredibly high
-            Hydro ratio on his Elemental Burst.</li>
-          <li>Bennett is a must for Burst Tartaglia due to his reliance on Pyro for
-            Vaporize and to bolster his typically lower ATK numbers.</li>
+          <li>Tartaglia is well known for his oneshots thanks to the incredibly <b>high</b> Hydro <b>ratio</b> on
+            his <b>Elemental Burst.</b> 
+          </li>
+          <li>Bennett is a <b>must</b> for Burst Tartaglia due to his <b>reliance</b> on <b>Pyro</b> for <b>Vaporize</b> and
+            to bolster his typically lower ATK numbers.</li>
           <li>Characters like Xiangling can also make it more convenient to Vaporize
             his burst thanks to the constant Pyro application.</li>
         </ul>
@@ -79,9 +79,9 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
         <br />Ningguang</td>
       <td style="text-align:left">
         <ul>
-          <li>Similar to Zhongli, Ningguang&#x2019;s Elemental Burst has a very low
-            energy cost and is not reliant on reaction setups, making it easy to spam
-            in rotations.</li>
+          <li>Similar to Zhongli, Ningguang&#x2019;s Elemental Burst has a very <b>low energy cost</b> and
+            is <b>not reliant</b> on reaction <b>setups</b>, making it easy to spam in
+            rotations.</li>
           <li>Ningguang only relies on generic buffers and debuffers as well as Geo
             Resonance to deal high burst damage.</li>
         </ul>
@@ -94,13 +94,13 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
       <td style="text-align:left">
         <ul>
           <li>Mona is the queen of burst DPS thanks to the fact that her Elemental Burst
-            not only deals extreme damage, but also applies one of the strongest debuffs
-            in the game which can enable even more burst damage from your other party
+            not only deals <b>extreme damage</b>, but also applies one of the <b>strongest debuffs</b> in
+            the game which can enable even <b>more burst damage</b> from your other party
             members.</li>
           <li>Similarly to Tartaglia, Bennett is particularly strong for a burst Mona
             thanks to his Pyro applications and ATK buff.</li>
-          <li>Nearly every character in the game that is capable of high burst damage
-            will benefit greatly from a Mona in the party.</li>
+          <li>Nearly every character in the game that is <b>capable</b> of <b>high burst</b> damage
+            will <b>benefit</b> greatly from a Mona in the party.</li>
         </ul>
       </td>
     </tr>
@@ -111,12 +111,12 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
       <td style="text-align:left">
         <ul>
           <li>Albedo&#x2019;s Elemental Burst acts as both a high-damage Geo nuke as
-            well as a buffer for your team, while his Elemental Skill provides excellent
-            off-field damage for any composition, making him one of the most flexible
-            characters in the game.</li>
+            well as a <b>buffer</b> for your team, while his Elemental Skill provides
+            excellent <b>off-field damage</b> for any composition, making him one of
+            the most <b>flexible</b> characters in the game.</li>
           <li>While the fact that he is a Geo character would normally limit his usability
-            in burst compositions, the Elemental Mastery buff he grants the team allows
-            him to perform well in any quickswap team.</li>
+            in burst compositions, the <b>Elemental Mastery buff</b> he grants the team
+            allows him to perform well in any <b>quickswap</b> team.</li>
           <li>Like all the previous Geo burst DPS, his burst only scales with generic
             buffers/debuffers and Geo Resonance.</li>
         </ul>
@@ -128,11 +128,12 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
         <br />Chongyun</td>
       <td style="text-align:left">
         <ul>
-          <li>Chongyun has a strong multihit Cryo Elemental Burst that can deal heavy
-            damage with proper melt setups.</li>
+          <li>Chongyun has a strong <b>Multi-hit</b> Cryo <b>Elemental Burst</b> that can
+            deal heavy damage with proper melt setups.</li>
           <li>In order to melt all of the hits, particularly if you have C6, either
-            a very strong pyro application from someone like Bennett is needed or some
-            extra off-field procs from either an infused Sucrose Burst or from Xiangling.</li>
+            a very <b>strong pyro application</b> from someone like Bennett is needed
+            or some extra off-field procs from either an infused Sucrose Burst or from
+            Xiangling.</li>
         </ul>
       </td>
     </tr>

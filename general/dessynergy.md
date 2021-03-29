@@ -1,2 +1,2 @@
-# Dessynergy
+# Team Dissonance
 
