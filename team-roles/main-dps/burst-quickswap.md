@@ -10,7 +10,7 @@ A Burst Team is more complicated to use compared to a Sustained Team because you
 
 The first is one focused on **oneshotting** enemies. This specializes in using **Melt/Vaporize** reactions, and so your team choices are **restricted** because only **certain characters** work in a oneshot team. The DPS downtime after casting skills is huge and so it's generally only recommended to be used against **Single Targets** like bosses. 
 
-The other playstyle is called **Quickswap** and this works **similar** to a **Sustained DPS** Team. This focuses on switching between characters constantly and using their **Elemental Skills/Elemental Burst** back to back for consistent damage. Because of the constant switching of characters, those with a **Low Cooldown** on their skills work very well in quickswap teams.
+The other playstyle is called **Quickswap** and this works **similar** to a **Sustained DPS** Team. This focuses on switching between characters constantly and using their **Elemental Skills/Elemental Burst** back to back for consistent damage. Because of the constant switching of characters, those with a **Low Cooldown** on their skills generally work the best in Quickswap teams. The **team choices** of Quickswap teams is extremely **flexible** as nearly every character can work. Team combinations that would otherwise not work in a Sustained Teams would work extremely well with a Quickswap playstyle which makes nearly every character be viable choices.
 
 {% hint style="warning" %}
 Because of amount of **investment** you would put in **most** Burst DPS Teams is **higher** compared to a Sustained DPS Team with the same **level of performance**, it's **recommended** that you'd only start looking into a burst team at around **AR50+** where you have already invested in a **previous** party beforehand.
@@ -18,8 +18,124 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
 
 ## List of Burst DPS Characters
 
-|  |  |
-| :---: | :--- |
-| ![](../../.gitbook/assets/ui_avataricon_aether.png)  Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
-| ![](../../.gitbook/assets/ui_avataricon_aether.png)  Example Character | This retard needs abyss help! |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_hutao.png" alt/>
+        <br />Hu Tao</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Hu Tao&#x2019;s Elemental Burst is currently one of the hardest-hitting
+            abilities in the game. When built for a Burst playstyle, Hu Tao should
+            prioritize strong Cryo application from characters like Ganyu or Kaeya
+            for Melts.</li>
+          <li>Despite Hu Tao typically wanting to stay below half HP, Bennett can still
+            be a strong option here to apply Pyro for Viridescent Venerer debuffs and
+            as an ATK buffer as long as Hu Tao casts her burst while remaining below
+            her half HP threshold.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
+        <br />Zhongli</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Zhongli&#x2019;s burst is great for both damage and CC, the extremely
+            low Energy cost on his Burst can make it very spammable and easy to weave
+            into rotations.</li>
+          <li>Zhongli&#x2019;s burst does not require any elemental reaction setups
+            and only strongly benefits from large generic damage buffs and debuffs
+            such as Bennett&#x2019;s Burst, Mona&#x2019;s Omen debuff and Geo Resonance.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>
+        <br />Tartaglia</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Tartaglia is well known for his oneshots thanks to the incredibly high
+            Hydro ratio on his Elemental Burst.</li>
+          <li>Bennett is a must for Burst Tartaglia due to his reliance on Pyro for
+            Vaporize and to bolster his typically lower ATK numbers.</li>
+          <li>Characters like Xiangling can also make it more convenient to Vaporize
+            his burst thanks to the constant Pyro application.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_ningguang.png" alt/>
+        <br />Ningguang</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Similar to Zhongli, Ningguang&#x2019;s Elemental Burst has a very low
+            energy cost and is not reliant on reaction setups, making it easy to spam
+            in rotations.</li>
+          <li>Ningguang only relies on generic buffers and debuffers as well as Geo
+            Resonance to deal high burst damage.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>
+        <br />Mona</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Mona is the queen of burst DPS thanks to the fact that her Elemental Burst
+            not only deals extreme damage, but also applies one of the strongest debuffs
+            in the game which can enable even more burst damage from your other party
+            members.</li>
+          <li>Similarly to Tartaglia, Bennett is particularly strong for a burst Mona
+            thanks to his Pyro applications and ATK buff.</li>
+          <li>Nearly every character in the game that is capable of high burst damage
+            will benefit greatly from a Mona in the party.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_albedo.png" alt/>
+        <br />Albedo</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Albedo&#x2019;s Elemental Burst acts as both a high-damage Geo nuke as
+            well as a buffer for your team, while his Elemental Skill provides excellent
+            off-field damage for any composition, making him one of the most flexible
+            characters in the game.</li>
+          <li>While the fact that he is a Geo character would normally limit his usability
+            in burst compositions, the Elemental Mastery buff he grants the team allows
+            him to perform well in any quickswap team.</li>
+          <li>Like all the previous Geo burst DPS, his burst only scales with generic
+            buffers/debuffers and Geo Resonance.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_chongyun.png" alt/>
+        <br />Chongyun</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Chongyun has a strong multihit Cryo Elemental Burst that can deal heavy
+            damage with proper melt setups.</li>
+          <li>In order to melt all of the hits, particularly if you have C6, either
+            a very strong pyro application from someone like Bennett is needed or some
+            extra off-field procs from either an infused Sucrose Burst or from Xiangling.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
