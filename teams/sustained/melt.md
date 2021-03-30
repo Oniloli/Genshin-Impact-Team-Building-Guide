@@ -5,10 +5,10 @@ summary of what this comp does?
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:center"></th>
-      <th style="text-align:center"></th>
-      <th style="text-align:center"></th>
+      <th style="text-align:center">DPS</th>
+      <th style="text-align:center">Sub DPS</th>
+      <th style="text-align:center">Energy Battery</th>
+      <th style="text-align:center">Survivability</th>
     </tr>
   </thead>
   <tbody>
@@ -36,10 +36,10 @@ summary of what this comp does?
       </td>
     </tr>
     <tr>
-      <td style="text-align:center">DPS</td>
-      <td style="text-align:center">Sub DPS</td>
-      <td style="text-align:center">Energy Batter</td>
-      <td style="text-align:center">Survivability</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
     </tr>
   </tbody>
 </table>
