@@ -1,6 +1,6 @@
 # Melt
 
-summary of what this comp does?
+Summary of what this comp does?
 
 <table>
   <thead>
