@@ -7,8 +7,8 @@ Summary of what this comp does?
     <tr>
       <th style="text-align:center">DPS</th>
       <th style="text-align:center">Sub DPS</th>
-      <th style="text-align:center">Energy Battery</th>
-      <th style="text-align:center">Survivability</th>
+      <th style="text-align:center">Support</th>
+      <th style="text-align:center">Support</th>
     </tr>
   </thead>
   <tbody>
