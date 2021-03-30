@@ -22,27 +22,27 @@ Make sure to **apply Cryo Element to the enemy first** from your AA **before tap
 
 ## **Tartaglia + Xiangling**
 
-This comp revolves around Xiangling **triggering Reverse Vaporize** instead of Tartaglia triggering it. This happens due to how fast Tartaglia applies Hydro aura on enemies, and Xiangling’s Pyro application can’t keep up, so she’s the one triggering reverse Vaporize instead.  
+This team synergy revolves around Xiangling **triggering Reverse Vaporize** instead of Tartaglia triggering it. This happens due to how fast Tartaglia applies Hydro aura on enemies, and Xiangling’s Pyro application can’t keep up, so she’s the one triggering reverse Vaporize instead.  
   
-On this team combo, Xiangling needs to be **decently invested** because she’s doing a huge chunk of damage from her reverse Vaporized burst, meanwhile Tartaglia provides on field Hydro damage. **Tartaglia can also trigger Vaporize on his burst** from Xiangling’s Pyro application.
+On this team synergy, Xiangling needs to be **decently invested** because she’s doing a huge chunk of damage from her reverse Vaporized burst, meanwhile Tartaglia provides on field Hydro damage. **Tartaglia can also trigger Vaporize on his burst** from Xiangling’s Pyro application.
 
 ## **Tartaglia + Fischl** 
 
-Unlike previous comps which revolve around amplifying reactions such as Melt and Vaporize, this comp focuses on **Electro-Charged Reaction**. This **won’t** produce **big numbers** like **Melt or Vaporize** however this comp does **produce a lot of numbers** on your screen. Fischl is a great electro unit for this comp.  
+Unlike previous team synergies which revolve around amplifying reactions such as Melt and Vaporize, this synergy focuses on **Electro-Charged Reaction**. This **won’t** produce **big numbers** like **Melt or Vaporize** however this synergy does **produce a lot of numbers** on your screen. Fischl is a great electro unit for this synergy.  
   
 Fischl’s **C6** makes **Oz attack** while your on field character is also attacking, so while Tartaglia is on the field with his super fast Hydro attacks, a summoned Oz will also deal Electro damage to the enemies. Fishcl’s **2nd Passive Talent** will also activate because Tartaglia will be triggering Electro-Charged.
 
 ## **Mona + Bennett + Sucrose \(Oneshot Trio\)**
 
-This comp right here is a one shot comp buffer/ debuffer. Mona’s burst provides Omen debuff on enemies \(additive damage% multiplier\), Bennett’s burst provides a huge ATK buff and Sucrose’s passive enables her to add 20% of her EM to the party members, also she’s Anemo, so she has access to 4 Viridescent Venerer artifact set, which reduces elemental resistance. You can add any characters you want to deal huge damage in a short time frame.
+This Team right here is a **One Shot Team Buffer/Debuffer**. **Mona’s Elemental Burst** provides **Omen Debuff** on enemies \(additive damage% multiplier\), **Bennett’s Elemental Burst** provides a **huge ATK buff** and Sucrose’s **Passive Talents** enables her to add **50 Flat EM \(1st passive\)** and **20% of her EM \(2nd passive\)** to the party members, also she’s Anemo, so she has access to **4 Viridescent Venerer** artifact set, which reduces **Elemental Resistance**. You can add any Main DPS characters you want to deal **huge damage in a short time frame.**
 
 ## **Freeze Ganyu**
 
-This comp revolves around Ganyu constantly freezing enemies with the help of a Hydro support. Some of the best Hydro appliers currently in the game for Ganyu are Mona and Xingqiu.
+This team synergy revolves around Ganyu **constantly freezing enemies** with the help of a Hydro support. Some of the best Hydro appliers currently in the game for Ganyu are **Mona** and **Xingqiu**.
 
-Mona is one of the best, if not, the best Hydro support currently for a Freeze Ganyu. While her Hydro aura application is worse than Xingqiu’s, she provides more AoE with the cost of uptime. One of her main selling points on this comp is the Omen debuff from her burst. With some tricks, her Omen debuff can be extended, which is a nice thing to have. Also you don’t need to be worried of getting staggered because the enemies will be frozen.  
+Mona is **one of the best**, if not, the best Hydro support currently for a Freeze Ganyu. While her Hydro aura application is worse than Xingqiu’s, she provides **more AoE with the cost of uptime**. One of her main selling points on this synergy is the **Omen Debuff** from her burst. With some tricks, her **Omen debuff can be extended**, which is a nice thing to have. Also you don’t need to be worried of getting staggered because the enemies will be frozen.  
   
-Xingqiu is another good Hydro support for Ganyu, he has much better uptime \(but worse AoE\) than Mona’s Hydro application but it’s harder to pull off because you need to weave in Normal Attacks every time you do a Charged Shot \(Xingqiu’s burst only procs on Normal Attacks\).
+Xingqiu is another good Hydro support for Ganyu, he has much **better uptime** \(but worse AoE\) than Mona’s Hydro application but it’s harder to pull off because you need to **weave in Normal Attacks** every time you do a Charged Shot \(Xingqiu’s burst only procs on Normal Attacks\).
 
 ## **Ganyu + Xiangling**
 
