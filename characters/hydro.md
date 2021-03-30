@@ -116,8 +116,9 @@
 
 * Sets up combos for Main DPS
 * Enemies hit with her **Elemental Burst** take increased damage from **Omen Buff**
-* **C1** Increases Damage of Elemental Reactions by 15% on enemies with **Omen.** This Greatly Increases Mona's Burst DPS
+* **C1** Increases Damage of Elemental Reactions by 15% on enemies with **Omen.** This Greatly Increases The DPS of any character that rely on reactions as well as Mona's
 * **C4** Increases Crit Rate of active character by 15% on enemies with **Omen**
+* Mona's **Bubble** can be **frozen** to extend the **duration** of Omen
 
 **Synergies:**
 
