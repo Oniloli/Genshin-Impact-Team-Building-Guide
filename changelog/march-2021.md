@@ -25,4 +25,6 @@
 |  | Tweaked minor details on Geo Page | Miko-chan |
 | March 29 | Added page contents on Support \(Buffer\) | Miko-chan |
 |  | Added character list on Main DPS \(burst\) | Shockwhite |
+| March 30 | Added page contents on Team Synergy | 2ri |
+|  | Added page contents on Team Dissonance | 2ri |
 
