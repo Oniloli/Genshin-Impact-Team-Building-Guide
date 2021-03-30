@@ -24,6 +24,7 @@ summary of what this comp does?
           <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         </p>
         <p>Example Character</p>
+        <p>(Off-field)</p>
       </td>
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
@@ -42,13 +43,20 @@ summary of what this comp does?
           <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         </p>
         <p>Example Character</p>
+        <p>(Survivability)</p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <br />Example Character</p>
+        <p>(Sub DPS Burst)</p>
+      </td>
       <td style="text-align:center">
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         </p>
         <p>Example Character</p>
+        <p>(Shielder)</p>
       </td>
     </tr>
     <tr>
