@@ -37,7 +37,28 @@ summary of what this comp does?
     </tr>
     <tr>
       <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+        </p>
+        <p>Example Character</p>
+      </td>
       <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+        </p>
+        <p>Example Character</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+        </p>
+        <p>Example Character</p>
+      </td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
     </tr>
