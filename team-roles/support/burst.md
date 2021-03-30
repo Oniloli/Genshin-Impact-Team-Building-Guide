@@ -34,6 +34,10 @@ Superconduct Reaction is the only elemental reaction to **debuff** enemies. It r
 
 ## List of Buffer Characters <a id="list-of-burst-sub-dps-characters"></a>
 
+{% hint style="danger" %}
+This list will **only** include characters that can Buff or Debuff through **Talents/Constellations** and **not** through **Artifacts** and **Superconduct.**
+{% endhint %}
+
 | ​Title | ​Title |
 | :--- | :--- |
 | ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
