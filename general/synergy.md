@@ -32,7 +32,7 @@ Unlike previous team synergies which revolve around amplifying reactions such as
   
 Fischl’s **C6** makes **Oz attack** while your on field character is also attacking, so while Tartaglia is on the field with his super fast Hydro attacks, a summoned Oz will also deal Electro damage to the enemies. Fishcl’s **2nd Passive Talent** will also activate because Tartaglia will be triggering Electro-Charged.
 
-## **Mona + Bennett + Sucrose \(Oneshot Trio\)**
+## **Mona + Bennett + Sucrose \(Oneshot Wonder Trio\)**
 
 This Team right here is a **One Shot Team Buffer/Debuffer**. **Mona’s Elemental Burst** provides **Omen Debuff** on enemies \(additive damage% multiplier\), **Bennett’s Elemental Burst** provides a **huge ATK buff** and Sucrose’s **Passive Talents** enables her to add **50 Flat EM \(1st passive\)** and **20% of her EM \(2nd passive\)** to the party members, also she’s Anemo, so she has access to **4 Viridescent Venerer** artifact set, which reduces **Elemental Resistance**. You can add any Main DPS characters you want to deal **huge damage in a short time frame.**
 
