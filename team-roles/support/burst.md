@@ -4,7 +4,7 @@ Buffers are supports where their skills can **directly boost** the damage of you
 
 The damage increase can come in the form of either **Increasing** the **Stats** that your characters have which is a **Buff** or **Decreasing** the **Stats** of your enemies which is a **Debuff**. Depending on the characters you use specific character stats can be buffed or specific enemy stats can be debuffed. Some characters **gain the ability** to Buff/Debuff through **constellations.**
 
-The current **character stats** that can be **buffed** by characters is:
+The current **character stats** that can be **buffed** by characters \(talents/constellations\):
 
 * Elemental Damage
 * Elemental Mastery
@@ -14,7 +14,7 @@ The current **character stats** that can be **buffed** by characters is:
 * Damage
 * Critical Rate
 
-The current **enemy stats** that can be **debuffed** by characters:
+The current **enemy stats** that can be **debuffed** by characters \(talents/constellations\) :
 
 * Elemental Resistance
 * Physical Resistance
@@ -23,8 +23,14 @@ The current **enemy stats** that can be **debuffed** by characters:
 * % Attack
 
 {% hint style="info" %}
-Artifact stuff here...
+Some Artifact Sets have **Set Bonuses** which can give the character using the set to be a **Buffer** or **Debuffer**. The most well known example is Viridescent Venerer artifact where its 4-set bonus grants any **anemo character** the ability to **Reduce** enemies **Elemental Resistance** depending on the element that's been swirled.
 {% endhint %}
+
+{% hint style="info" %}
+Superconduct Reaction is the only elemental reaction to **debuff** enemies. It reduces **Physical Resistance** by **40%** making it a **must have** reaction for any Teams using a **Physical DPS.**
+{% endhint %}
+
+
 
 ## List of Buffer Characters <a id="list-of-burst-sub-dps-characters"></a>
 
