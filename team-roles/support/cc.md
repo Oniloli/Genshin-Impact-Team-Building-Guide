@@ -18,7 +18,7 @@ The second type enemies completely **stops enemy movement.** This leaves enemies
 
 ## Taunt
 
-Taunting is commonly comes in the form of an **Elemental Skill**. It directs the **enemies' focus** onto a **secondary object**, relieving your character of damage and creating a pocket of breathing room. This CC is **highly valuable** in defense objectives such as **protect the monolith**.   
+Taunting commonly comes in the form of an **Elemental Skill**. It directs the **enemies' focus** onto a **secondary object**, relieving your character of damage and creating a pocket of breathing room. This CC is **highly valuable** in defense objectives such as **protect the monolith**.   
   
 Taunts rely on enemies to **gather around** the taunt, rendering it **less effective** than other forms of CC due to a taunt's **limited range**. Taunts **do not** affect enemies out of its range \(Hilichurl Archers\) or **Boss enemies**.
 
