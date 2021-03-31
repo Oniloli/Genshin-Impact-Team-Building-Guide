@@ -2,9 +2,10 @@
 
 * [Team Building Intro](README.md)
 * [General](general/README.md)
-  * [FAQ](general/general-faq.md)
+  * [Team Building FAQ](general/general-faq.md)
   * [Team Synergy](general/synergy.md)
   * [Team Dissonance](general/dessynergy.md)
+  * [Abyss Team Building FAQ](general/abyss-team-building-faq.md)
 * [Glossary](glossary.md)
 
 ## Characters
@@ -34,9 +35,9 @@
 ## Team Examples <a id="teams"></a>
 
 * [Sustained](teams/sustained/README.md)
+  * [Physical](teams/sustained/physical.md)
   * [Melt](teams/sustained/melt.md)
   * [Vaporise](teams/sustained/vaporise.md)
-  * [Physical](teams/sustained/physical.md)
   * [Permafreeze](teams/sustained/permafreeze.md)
   * [Electro](teams/sustained/electro.md)
   * [Geo](teams/sustained/geo.md)

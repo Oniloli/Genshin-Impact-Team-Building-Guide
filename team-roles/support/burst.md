@@ -23,7 +23,7 @@ The current **enemy stats** that can be **debuffed** by characters \(talents/con
 * % Attack
 
 {% hint style="info" %}
-Some Artifact Sets have **Set Bonuses** which can give the character using the set to be a **Buffer** or **Debuffer**. The most well known example is Viridescent Venerer artifact where its 4-set bonus grants any **Anemo Character** the ability to **Reduce** enemies **Elemental Resistance** depending on the element that's been swirled.
+Some Artifact Sets have **Set Bonuses** which can give the character using the set to be a **Buffer** or **Debuffer**. The most well known example is **Viridescent Venerer** artifact where its 4-set bonus grants any **Anemo Character** the ability to **Reduce** enemies **Elemental Resistance** depending on the element that's been swirled. Other notable examples that's worth mentioning is the **Nobelesse Oblige** and **Instructor** Set.
 {% endhint %}
 
 {% hint style="info" %}
