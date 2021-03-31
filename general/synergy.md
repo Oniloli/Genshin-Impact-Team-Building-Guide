@@ -12,7 +12,7 @@ A Pyro DPS like **Diluc, Hutao** and **Klee** can take advantage of **Xingqiu’
   
 Even though **reverse Vaporize** only has 1.5x damage multiplier if compared to Melt that has 2x multiplier, it’s still better than Melt due to how **Elemental Gauges** work. You’re going to trigger reverse Vaporizes much more consistently than Melts.  
   
-More information on **Elemental Gauges:** [https://genshin-impact.fandom.com/wiki/Gauge\_Unit\_Theory](https://genshin-impact.fandom.com/wiki/Gauge_Unit_Theory)
+More information on **Elemental Gauges:** [**https://genshin-impact.fandom.com/wiki/Gauge\_Unit\_Theory**](https://genshin-impact.fandom.com/wiki/Gauge_Unit_Theory)\*\*\*\*
 
 ## **Non C6 Bennett + Chongyun** 
 
