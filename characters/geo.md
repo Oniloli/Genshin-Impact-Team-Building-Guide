@@ -123,7 +123,7 @@ You can only have up to **3 Player-Made Geo Constructs** of any kind in the fiel
 
 **Synergies:**
 
-* Works in **Every** Single Team!
+* Works in **Every** Single Team! Except Freeze
 
 **In-Depth Zhongli Guide Here:**
 
