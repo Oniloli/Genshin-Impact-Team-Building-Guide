@@ -8,7 +8,7 @@ Both Physical and Elemental Melee DPS have anti-synergy with Elemental DMG infus
 
 Venti is a really good CC unit with his burst, however some DPS characters **can’t deal damage** because they **can’t reach the enemies** sucked by Venti’s **Elemental Burst**. For example, **Hutao** can’t actually deal AA damage on enemies sucked by Venti’s burst. An **alternative** is to use **Sucrose** instead of Venti.
 
-**List of characters who can/ can’t hit in Venti’s burst :** [**https://docs.google.com/spreadsheets/d/1zNRM4xCufwz3oceutoRSGtw0SCiwoGNHhKXPb8enZZM/edit\#gid=0**](https://docs.google.com/spreadsheets/d/1zNRM4xCufwz3oceutoRSGtw0SCiwoGNHhKXPb8enZZM/edit#gid=0)
+**List of characters who can/can’t hit in Venti’s burst :** [**https://docs.google.com/spreadsheets/d/1zNRM4xCufwz3oceutoRSGtw0SCiwoGNHhKXPb8enZZM/edit\#gid=0**](https://docs.google.com/spreadsheets/d/1zNRM4xCufwz3oceutoRSGtw0SCiwoGNHhKXPb8enZZM/edit#gid=0)
 
 **Credits to Braxophone and SylvieClos.**
 
