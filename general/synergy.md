@@ -10,7 +10,9 @@ There are a lot of characters that synergize with each other mainly to take adva
 
 A Pyro DPS like **Diluc, Hutao** and **Klee** can take advantage of **Xingqiu’s Elemental Burst**. They will trigger **reverse Vaporizes** often due to how Xingqiu’s burst works \(it applies hydro very quickly and consistently\).   
   
-Even though **reverse Vaporize** only has 1.5x damage multiplier if compared to Melt that has 2x multiplier, it’s still better than Melt due to how **elemental gauges** work. You’re going to trigger reverse Vaporizes much more consistently than Melts.
+Even though **reverse Vaporize** only has 1.5x damage multiplier if compared to Melt that has 2x multiplier, it’s still better than Melt due to how **Elemental Gauges** work. You’re going to trigger reverse Vaporizes much more consistently than Melts.  
+  
+More information on **Elemental Gauges:** [https://genshin-impact.fandom.com/wiki/Gauge\_Unit\_Theory](https://genshin-impact.fandom.com/wiki/Gauge_Unit_Theory)
 
 ## **Non C6 Bennett + Chongyun** 
 
