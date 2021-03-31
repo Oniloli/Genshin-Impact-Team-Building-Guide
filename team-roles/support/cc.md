@@ -18,7 +18,7 @@ The second type enemies completely **stops enemy movement.** This leaves enemies
 
 ## Taunt
 
-The third form of CC is **Taunting** and is commonly an **Elemental Skill** for a character. The effect of this CC is to make enemy attacks **focus** on a **secondary object** instead of a character. This CC is **most useful** when **defending objectives** like Monoliths however because they'll be attacking your taunt giving you breathing room to kill enemies in relative safety. The **main drawback** is that it relies on the enemies to **group up themselves** on the taunt, it **isn't as effective** as the other form of CC because it doesn't group up some **ranged enemies** like Hilichurl Archers, and Bosses are **resistant** to taunts.
+The third form of CC is **Taunting** and is commonly an **Elemental Skill** for a character. The effect of this CC is to make enemy attacks **focus** on a **secondary object** instead of a character. This CC is **most useful** when **defending objectives** like Monoliths because they'll be attacking your taunt giving you breathing room to kill enemies in relative safety. The **main drawback** is that it relies on the enemies to **group up themselves** on the taunt, it **isn't as effective** as the other form of CC because it doesn't group up some **ranged enemies** like Hilichurl Archers, and Bosses are **resistant** to taunts.
 
 ## List of **Crowd Control** Characters
 
