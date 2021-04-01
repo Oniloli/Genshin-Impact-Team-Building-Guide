@@ -66,6 +66,7 @@
 
 * [Changelog](changelog/README.md)
   * [March 2021](changelog/march-2021.md)
+  * [April 2021](changelog/april-2021.md)
 * [Credits](credits.md)
 * [Resources](resources.md)
 

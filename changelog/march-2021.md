@@ -28,5 +28,4 @@
 | March 30 | Added page contents on Team Synergy | 2ri |
 |  | Added page contents on Team Dissonance | 2ri |
 |  | Added page contents on Support \(Crowd Control\) | Miko-chan |
-| March 31 |  |  |
 
