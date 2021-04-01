@@ -129,8 +129,9 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
           <li>Keqing is a mobile DPS who can choose to focus on dealing either <b>Physical</b> or <b>Electro</b> damage.</li>
           <li>Both of her build paths scale well with direct damage buffs such as resistance
             shreds or generic offensive stat buffs such as Bennett&#x2019;s Burst,
-            however Physical Keqing will want a <b>Cryo character</b> in her party for <b>Superconduct</b> procs
-            while Electro Keqing will want supports with a focus on <b>Elemental shredding</b> or <b>Elemental reactions</b> to
+            however <b>Physical Keqing</b> will want a <b>Cryo character</b> in her party
+            for <b>Superconduct</b> procs while <b>Electro Keqing</b> will want supports
+            with a focus on <b>Elemental shredding</b> or <b>Elemental reactions</b> to
             boost her DPS such as Electro-Charged.</li>
         </ul>
       </td>
