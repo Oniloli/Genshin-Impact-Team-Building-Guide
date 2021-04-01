@@ -105,28 +105,20 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzUbcXgABZ8VPGhCG%2Fui_avataricon_jean.png?alt=media&amp;token=19ee7165-d18f-4494-b6d5-f2c564ff1a4a"
-          alt/>
-        </p>
-        <p>Jean</p>
-        <p>(Healer, Debuffer)</p>
-      </td>
-      <td style="text-align:center"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">
-        <p>&#x200B;
+        <p>&#x200B;&#x200B;
           <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzjHbhWi0HFRNfikc%2Fui_avataricon_xiangling.png?alt=media&amp;token=edef708d-5200-4f80-b313-2c87ce99cb5a"
           alt/>
         </p>
         <p>Xiangling</p>
-        <p>(C1, Only use with</p>
-        <p>Jean)</p>
+        <p>(C1, Burst)</p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzUbcXgABZ8VPGhCG%2Fui_avataricon_jean.png?alt=media&amp;token=19ee7165-d18f-4494-b6d5-f2c564ff1a4a"
+          alt/>&#x200B;</p>
+        <p>Jean</p>
+        <p>(Healer, Debuffer)</p>
+      </td>
     </tr>
   </tbody>
 </table>
