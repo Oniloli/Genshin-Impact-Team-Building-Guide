@@ -57,7 +57,8 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
           <br />Example Character</p>
-        <p>(Survival, Debuffer)</p>
+        <p>(Survival, Debuffer.
+          <br />Burst)</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -85,7 +86,13 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
     <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
+        </p>
+        <p>Jean</p>
+        <p>(Healer, Debuffer)</p>
+      </td>
       <td style="text-align:center">
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
@@ -93,6 +100,19 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>Qiqi</p>
         <p>(Healer)</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_xiangling.png" alt/>
+        </p>
+        <p>Xiangling</p>
+        <p>(C1, Only use with</p>
+        <p>Jean)</p>
+      </td>
+      <td style="text-align:center"></td>
     </tr>
   </tbody>
 </table>
