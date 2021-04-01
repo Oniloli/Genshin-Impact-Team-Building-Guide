@@ -1,16 +1,22 @@
 # Burst \(Quickswap\)
 
-This the one of the core roles you can have for your entire party. Burst DPS Teams work differently from Sustained DPS Teams where they would output all of their damage in a single instance, and then go through a downtime period where you'd **recharge** your **energy** or **wait for Cooldown** until you are fully ready to output that damage again.
+This the one of the core roles you can have for your entire party. A Burst DPS works differently from a Main DPS where they would output all of their damage in a **single instance**, or support the team with **other effects** such as **Buffs/Debuffs/Element Application.** They then go through a downtime period where you'd **recharge** your **energy** or **wait for Cooldown** until you are fully ready to output that damage again.
 
 The main source of damage for Burst DPS is mainly their **Elemental Burst** and/or **Elemental Skill**. They can be boosted by elemental reactions or from their own elemental skills and supports.
 
-A Burst Team is more complicated to use compared to a Sustained Team because you would need your Supports or other Burst DPS to be be invested, and be just as close to being or be as strong as your Main DPS. This is important because when your Burst DPS casts their Skills, the downtime where they wont deal a lot of damage needs to be covered by your other characters in the party until it's ready to be cast again.
+If you are using a **Burst DPS like a Main DPS** it is **more complicated** to use compared to use because you would need your Supports or other Burst DPS to be be **invested**, and be just as close to being or be as strong as your Main DPS. This is important because when your Burst DPS casts their Skills, the downtime where they wont deal a lot of damage needs to be covered by your other characters in the party until it's ready to be cast again.  
+  
+Some characters can apply **Buffs or CC** to make your Main DPS do even more damage on top of the Burst. This makes them ideal during combos where you use Multiple Elemental Bursts in a specific order to take advantage of the buffs that they bring.
 
-## Burst Playstyles
+{% hint style="info" %}
+You **do not** need to put in a lot of **investment** to make them good a Sub DPS. As long as they can frequently cast their Skills and Burst that is already more than enough for your main DPS. It's recommended to start investing to increase their DPS once your Main DPS gets into a level you are **satisfied** with.
+{% endhint %}
+
+## Burst Main DPS Playstyles
 
 ### Oneshot
 
-The first is one focused on **oneshotting** enemies. This specializes in using **Melt/Vaporize** reactions, and so your team choices are **restricted** because only **certain characters** work in a oneshot team. The DPS downtime after casting skills is huge and so it's generally only recommended to be used against **Single Targets** like bosses. 
+The first playstyle mainly specializes in using **Melt/Vaporize** reactions to deal **Massive Burst DPS** in a **short time frame**, and **doesn't necessarily** oneshot because that's **dependant on your gear/stats**. To deal maximum burst damage you need to have all your **Elemental Bursts** fully recharged, and you do your combos in a specific order as fast as possible to **not let** the **buffs/debuffs** expire. Your team choices are **restricted** because only **certain characters** work in a oneshot team, and the DPS downtime after casting skills is huge. It's generally only recommended to play this against **Single Targets** like bosses. 
 
 ### Quickswap
 
