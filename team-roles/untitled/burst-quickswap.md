@@ -18,7 +18,7 @@ You **do not** need to put in a lot of **investment** to make them good a Sub DP
 
 ### Oneshot
 
-The first playstyle mainly specializes in using **Melt/Vaporize** reactions to deal **Massive Burst DPS** in a **short time frame**, and **doesn't necessarily** oneshot because that's **dependant on your gear/stats**. To deal maximum burst damage you need to have all your **Elemental Bursts** fully recharged, and you do your combos in a specific order as fast as possible to **not let** the **buffs/debuffs** expire. Your team choices are **restricted** because only **certain characters** work in a oneshot team, and the DPS downtime after casting skills is huge. It's generally only recommended to play this against **Single Targets** like bosses. 
+The first playstyle mainly specializes in using **Melt/Vaporize** reactions to deal **Massive Burst DPS** in a **short time frame**, and **doesn't necessarily** oneshot because that's **dependant on your gear/stats**. To deal maximum burst damage you need to have all your **Elemental Bursts** fully recharged, and you do your combos in a specific order as fast as possible to **before** the **buffs/debuffs** expire. Your team choices are **restricted** because only **certain characters** work in a oneshot team, and the DPS downtime after casting skills is huge. It's generally only recommended to play this against **Single Targets** like bosses. 
 
 ### Quickswap
 
