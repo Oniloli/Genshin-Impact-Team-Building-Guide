@@ -1,6 +1,6 @@
 # Vaporise
 
-Summary of what this comp does?
+This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with a focus on vaporizing every one of Diluc’s **Elemental Skill Taps** and his **Auto Attacks** when possible resulting in a constant **1.5x Damage Multiplier** on Diluc’s attacks.
 
 <table>
   <thead>
@@ -15,60 +15,84 @@ Summary of what this comp does?
     <tr>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_diluc.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Diluc</p>
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Xinqui</p>
         <p>(Off-field)</p>
       </td>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
-        <br />Example Character</td>
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt/>
+          <br />Sucrose</p>
+        <p>(CC, Debuffer)</p>
+      </td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>(Healer, Buffer)</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_klee.png" alt/>
         </p>
-        <p>Example Character</p>
-        <p>(Survivability)</p>
+        <p>Klee</p>
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>
+        </p>
+        <p>Mona</p>
+        <p>(Burst)</p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
           <br />Example Character</p>
-        <p>(Sub DPS Burst)</p>
+        <p>(Survival, Debuffer)</p>
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/>
         </p>
         <p>Example Character</p>
-        <p>(Shielder)</p>
+        <p>(Shielder, Healer)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Anemo Traveler</p>
+        <p>(CC, Debuffer)</p>
       </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/>
+        <br />Barbara
+        <br />(Healer)</td>
+    </tr>
+    <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
+        </p>
+        <p>Qiqi</p>
+        <p>(Healer)</p>
+      </td>
     </tr>
   </tbody>
 </table>
