@@ -1,6 +1,6 @@
 # Energy Battery
 
-Energy Battery Supports are characters where they **give large amounts energy** to the entire party. They will use their **Elemental Skill** which will create **energy particles** when it **hits an enemy** which will fill up the **Elemental Burst** gauge for your entire party.
+Energy Battery Supports are characters where they **give large amounts energy** to the entire party. They will use their **Elemental Skill** which will create **energy particles** when it **hits an enemy** which will fill up the **Elemental Burst gauge** for your entire party.
 
 Some characters can become energy batteries if they use a **Sacrificial Weapon** where it's passive effect is that it has a chance to **Reset Cooldowns** when an elemental skill hits an enemy. **Constellations** also play an effect on a character's viability as an energy battery by giving them an **extra charge** on their elemental skill for example.
 
