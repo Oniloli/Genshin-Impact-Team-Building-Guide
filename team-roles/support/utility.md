@@ -1,4 +1,4 @@
-# Survivability
+# Survival
 
 Survivability supports are character that are solely focused on keeping your entire party alive. There are two ways that these characters can increase your party's survivability. The first is **Healing** and the second is **Shielding**.
 
