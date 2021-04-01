@@ -7,7 +7,7 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
     <tr>
       <th style="text-align:center">DPS</th>
       <th style="text-align:center">Sub DPS</th>
-      <th style="text-align:center">Support</th>
+      <th style="text-align:center">Support/Sub DPS</th>
       <th style="text-align:center">Support</th>
     </tr>
   </thead>
