@@ -6,7 +6,7 @@ This the one of the core roles you can have for your entire party. A Burst DPS w
 
 The main source of damage for Burst DPS is mainly their **Elemental Burst** and/or **Elemental Skill**. They can be boosted by elemental reactions or from their own elemental skills and supports.
 
-If you are using a **Burst DPS like a Main DPS** it is **more complicated** to use compared to use because you would need your Supports or other Burst DPS to be be **invested**, and be just as close to being or be as strong as your Main DPS. This is important because when your Burst DPS casts their Skills, the downtime where they wont deal a lot of damage needs to be covered by your other characters in the party until it's ready to be cast again.  
+If you are using a **Burst DPS like a Main DPS** it is **more complicated** to use because you would need your Supports or other Burst DPS to be be **invested**, and be just as close to being or be as strong as your Main DPS. This is important because when your Burst DPS casts their Skills, the downtime where they wont deal a lot of damage needs to be covered by your other characters in the party until it's ready to be cast again.  
   
 Some characters can apply **Buffs or CC** to make your Main DPS do even more damage on top of the Burst. This makes them ideal during combos where you use Multiple Elemental Bursts in a specific order to take advantage of the buffs that they bring.
 
