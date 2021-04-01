@@ -4,13 +4,7 @@ Energy Battery Supports are characters where they **give large amounts energy** 
 
 Some characters can become energy batteries if they use a **Sacrificial Weapon** where it's passive effect is that it has a chance to **Reset Cooldowns** when an elemental skill hits an enemy. **Constellations** also play an effect on a character's viability as an energy battery by giving them an **extra charge** on their elemental skill for example.
 
-When you collect energy particles
-
-
-
-Every character generates a **different amount of energy particles** when casting their Elemental skills except for a select few. The **element of the energy particle** will also **depend** on the **character** that casted the skill eg. \(Cryo character will generate Cryo Particles\). The **more** energy particles are generated the more energy is gained as a general rule of thumb.
-
-**Skill Cooldowns** on Elemental skills can also determine if a character can be a good energy battery or not. Most of the time a **Lower Cooldown** would make a character a better battery. By taking into account both the skill cooldowns and particles generated per cast, the **more Energy Particles per Second** the better the energy regeneration in total.
+When you collect energy particles **certain characters** in your party will gain **more energy** than the others. Characters that are the **matching element** of the particle will gain the more energy compared to those that aren't. Characters that are also on-field also gain more energy than those that are off-field. So if you want a **specific character** to gain the **most energy** from each particle your Energy Battery casts the skill then you **switch** to that character and collect the orbs.
 
 ## List of **Energy Battery** Characters
 
