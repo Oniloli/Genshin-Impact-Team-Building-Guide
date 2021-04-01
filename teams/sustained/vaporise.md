@@ -79,9 +79,12 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>(CC, Debuffer)</p>
       </td>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/>
-        <br />Barbara
-        <br />(Healer)</td>
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzUbcXgABZ8VPGhCG%2Fui_avataricon_jean.png?alt=media&amp;token=19ee7165-d18f-4494-b6d5-f2c564ff1a4a"
+          alt/>&#x200B;</p>
+        <p>Jean</p>
+        <p>(Healer, Debuffer)</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
@@ -94,12 +97,9 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>(CC, Debuffer)</p>
       </td>
       <td style="text-align:center">
-        <p>
-          <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
-        </p>
-        <p>Qiqi</p>
-        <p>(Healer)</p>
-      </td>
+        <img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/>
+        <br />Barbara
+        <br />(Healer)</td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
@@ -113,11 +113,11 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>(C1, Burst)</p>
       </td>
       <td style="text-align:center">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzUbcXgABZ8VPGhCG%2Fui_avataricon_jean.png?alt=media&amp;token=19ee7165-d18f-4494-b6d5-f2c564ff1a4a"
-          alt/>&#x200B;</p>
-        <p>Jean</p>
-        <p>(Healer, Debuffer)</p>
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
+        </p>
+        <p>Qiqi</p>
+        <p>(Healer)</p>
       </td>
     </tr>
   </tbody>
