@@ -21,8 +21,7 @@
 
 * [Team Roles \(reference. will be deleted\)](team-roles/team-roles-old/README.md)
   * [Burst Sub DPS \[Old might be deleted\]](team-roles/team-roles-old/burst.md)
-* [Main DPS](team-roles/main-dps/README.md)
-  * [Sustained](team-roles/main-dps/sustained.md)
+* [Main DPS](team-roles/main-dps.md)
 * [Sub DPS](team-roles/untitled/README.md)
   * [Burst \(Quickswap\)](team-roles/untitled/burst-quickswap.md)
   * [Off-field](team-roles/untitled/off-field.md)

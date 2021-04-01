@@ -1,4 +1,4 @@
-# Sustained
+# Main DPS
 
 This the one of the core roles you can have for your entire party. In teams with a Sustained DPS they will be characters that will be doing **almost all the DMG** output in your team. They will deal their damage **consistently** over time through combos depending on which character you are playing.
 
@@ -24,7 +24,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
   <tbody>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_diluc.png" alt/>
+        <img src="../.gitbook/assets/ui_avataricon_diluc.png" alt/>
         <br />Diluc</td>
       <td style="text-align:left">
         <ul>
@@ -41,7 +41,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_razor.png" alt/>
+        <img src="../.gitbook/assets/ui_avataricon_razor.png" alt/>
         <br />Razor</td>
       <td style="text-align:left">
         <ul>
@@ -58,7 +58,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_klee.png" alt/>Klee</td>
+        <img src="../.gitbook/assets/ui_avataricon_klee.png" alt/>Klee</td>
       <td style="text-align:left">
         <ul>
           <li>Klee is a <b>very high-burst</b> Pyro mage who can dish out incredibly high
@@ -72,7 +72,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_noelle.png" alt/>Noelle</td>
+        <img src="../.gitbook/assets/ui_avataricon_noelle.png" alt/>Noelle</td>
       <td style="text-align:left">
         <ul>
           <li>Noelle is a beefy Geo DPS with <b>large AoE attacks</b> who, despite having
@@ -88,7 +88,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_ganyu.png" alt/>Ganyu</td>
+        <img src="../.gitbook/assets/ui_avataricon_ganyu.png" alt/>Ganyu</td>
       <td style="text-align:left">
         <ul>
           <li>Ganyu is an extremely powerful ranged Cryo DPS who primarily utilizes
@@ -103,7 +103,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_hutao.png" alt/>Hu Tao</td>
+        <img src="../.gitbook/assets/ui_avataricon_hutao.png" alt/>Hu Tao</td>
       <td style="text-align:left">
         <ul>
           <li>Hu Tao is a unique Pyro DPS who has <b>access to both</b> extreme <b>sustained DPS</b> with
@@ -123,7 +123,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_keqing.png" alt/>Keqing</td>
+        <img src="../.gitbook/assets/ui_avataricon_keqing.png" alt/>Keqing</td>
       <td style="text-align:left">
         <ul>
           <li>Keqing is a mobile DPS who can choose to focus on dealing either <b>Physical</b> or <b>Electro</b> damage.</li>
@@ -137,7 +137,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_ningguang.png" alt/>Ningguang</td>
+        <img src="../.gitbook/assets/ui_avataricon_ningguang.png" alt/>Ningguang</td>
       <td style="text-align:left">
         <ul>
           <li>Ningguang is a Geo DPS who has access to both powerful <b>sustained DPS</b> and
@@ -154,7 +154,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_xiao.png" alt/>Xiao</td>
+        <img src="../.gitbook/assets/ui_avataricon_xiao.png" alt/>Xiao</td>
       <td style="text-align:left">
         <ul>
           <li>Xiao is an <b>extremely selfish</b> Anemo DPS with huge <b>AoE</b> plunging
@@ -170,7 +170,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>Tartaglia</td>
+        <img src="../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>Tartaglia</td>
       <td style="text-align:left">
         <ul>
           <li>A Hydro DPS who primarily uses his Elemental Skill when played as a sustain
@@ -188,6 +188,4 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
     </tr>
   </tbody>
 </table>
-
-
 
