@@ -19,13 +19,13 @@
 
 ## Team Roles
 
-* [Team Roles \(reference. will be deleted\)](team-roles/team-roles-old.md)
+* [Team Roles \(reference. will be deleted\)](team-roles/team-roles-old/README.md)
+  * [Burst Sub DPS \[Old might be deleted\]](team-roles/team-roles-old/burst.md)
 * [Main DPS](team-roles/main-dps/README.md)
   * [Sustained](team-roles/main-dps/sustained.md)
-  * [Burst \(Quickswap\)](team-roles/main-dps/burst-quickswap.md)
 * [Sub DPS](team-roles/untitled/README.md)
+  * [Burst \(Quickswap\)](team-roles/untitled/burst-quickswap.md)
   * [Off-field](team-roles/untitled/off-field.md)
-  * [Burst](team-roles/untitled/burst.md)
 * [Support](team-roles/support/README.md)
   * [Buffer](team-roles/support/burst.md)
   * [Crowd Control \(CC\)](team-roles/support/cc.md)
