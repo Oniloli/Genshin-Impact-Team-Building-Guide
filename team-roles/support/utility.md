@@ -2,7 +2,11 @@
 
 Survivability supports are character that are solely focused on keeping your entire party alive. There are two ways that these characters can increase your party's survivability. The first is **Healing** and the second is **Shielding**.
 
-Healing characters are self-explanatory. These characters have the ability to regenerate the health of other characters in the party.  
+Healing characters are self-explanatory. These characters have the ability to regenerate the health of other characters in the party. There is **Sustained Healing** which heals you over a period of time and **Burst Healing** which heals a **large chunk** of health in **one instance**, some healing abilities also only heal the character on-field while others can heal the entire party.  
+  
+Shielding characters are those that have the ability to **create** a shield to protect from enemy attacks. Shields can be created from **Elemental Skills/Bursts** and **Reactions** and it has a **separate HP bar**. The amount of HP is dependant on the **Characters Stats** and **Talent Level** of the skill that creates it. Some of the shields that are created by certain characters can have **other effects** such as **Debuffing/Dealing Damage** when **close** to enemies. 
+
+Characters protected by shields and certain abilities also gain **resistance to interruptions** meaning that they **can't be staggered** or **knocked back** from enemy attacks.  
 
 
 ## List of **Survivability** Characters
