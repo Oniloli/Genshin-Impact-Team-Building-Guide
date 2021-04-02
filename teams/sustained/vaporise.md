@@ -133,12 +133,7 @@ The pyro infusion normally lasts 8 seconds but when he reaches his 4th Ascension
 
 Because he is a Pyro DPS he does the most damage when he creates **Elemental Reactions.** He relies on the **Reverse Vaporise Reaction** which **multiplies** his damage by **1.5x**, and with a character that can consistently **apply Hydro** like **Xingqiu with his Elemental Burst active**, **every attack** that Diluc does w**ill be be a Vaporize Reaction**. While the Melt Reaction gives Diluc bigger numbers it is **less consistent** which means that it will be **less total DPS** compared to Reverse Vaporize in the long run.
 
-
-
-
-
-* Diluc is a sustained DPS that focuses purely on Pyro damage from each part of his kit. His Burst **infuses** his **Normal and Charged** attacks with **Pyro damage** and combos well with his Elemental skill in DPS rotations. 
-* Thanks to his constant Pyro DPS, Diluc scales extremely well with supports that can enable a high frequency of Elemental Reactions, typically **Vaporize**, such as Xingqiu, and can be further boosted by supports that boost his **Elemental Mastery** or shreds **Elemental resistances.**
+By **increasing** Diluc's **Elemental Mastery** he can **increase the damage multiplier** for his Vaporize reactions. Having an **Anemo Character** with Viridescent Venerer set **swirl Pyro** and/or a have a **Zhongli Shield** active will reduce Pyro Resistance increasing Diluc's DPS further.
 
 ### Alternate Characters
 
