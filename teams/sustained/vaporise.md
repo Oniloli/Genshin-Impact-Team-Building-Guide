@@ -152,8 +152,8 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
         <br />Klee</td>
       <td style="text-align:left">
         <p></p>
-        <p>Klee compared to Diluc is better suited as a burst DPS than a sustained
-          DPS.</p>
+        <p>Klee compared to Diluc leans more towards Burst DPS side but can still
+          deal Sustained DPS nevertheless. Klee relies on her</p>
         <p></p>
         <ul>
           <li>Klee is a <b>very high-burst</b> Pyro mage who can dish out incredibly high
