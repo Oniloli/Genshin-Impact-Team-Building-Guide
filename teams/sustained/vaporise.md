@@ -57,7 +57,7 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
           <br />Example Character</p>
-        <p>(Survival, Debuffer.
+        <p>(Shielder, Debuffer.
           <br />Burst)</p>
       </td>
       <td style="text-align:center">
