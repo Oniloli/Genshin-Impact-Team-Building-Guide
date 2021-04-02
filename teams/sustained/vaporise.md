@@ -137,27 +137,52 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
 
 ### Alternate Characters
 
-|  |  |
-| :--- | :--- |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This retard needs abyss help! |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_klee.png"
+        alt/>
+        <br />Klee</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Klee compared to Diluc is better suited as a burst DPS than a sustained
+          DPS.</p>
+        <p></p>
+        <ul>
+          <li>Klee is a <b>very high-burst</b> Pyro mage who can dish out incredibly high
+            damage in short amounts of time.</li>
+          <li>Her <b>Normal and Charge</b> attacks <b>scale well</b> with <b>Vaporize</b>,
+            making Hydro application supports strong choices with her.</li>
+          <li><b>Elemental</b>  <b>buffers</b> and <b>debuffers</b> such as Sucrose can also
+            grant her much more DPS.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sub DPS
 
-### Example Character ![](../../.gitbook/assets/ui_avataricon_aether.png)
+### Xingqiu ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
 
 Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder 
 
 ### Alternate Characters
 
 |  |  |
-| :--- | :--- |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This retard needs abyss help! |
+| :---: | :--- |
+| ​​![](../../.gitbook/assets/ui_avataricon_mona.png) Mona | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
 
-## Energy Battery
+## Support/Sub DPS
 
-### Example Character ![](../../.gitbook/assets/ui_avataricon_aether.png) 
+### Sucrose ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
 Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder 
 
@@ -170,7 +195,7 @@ Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placehol
 
 ## Survivability 
 
-### Example Character ![](../../.gitbook/assets/ui_avataricon_aether.png) 
+### Bennet ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
 Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder 
 
