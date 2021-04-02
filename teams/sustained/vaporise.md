@@ -127,7 +127,10 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
 
 ### Diluc ![](../../.gitbook/assets/ui_avataricon_diluc.png) 
 
-Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder 
+Diluc play a Main DPS where he spends most of his time on the field.
+
+* Diluc is a sustained DPS that focuses purely on Pyro damage from each part of his kit. His Burst **infuses** his **Normal and Charged** attacks with **Pyro damage** and combos well with his Elemental skill in DPS rotations. 
+* Thanks to his constant Pyro DPS, Diluc scales extremely well with supports that can enable a high frequency of Elemental Reactions, typically **Vaporize**, such as Xingqiu, and can be further boosted by supports that boost his **Elemental Mastery** or shreds **Elemental resistances.**
 
 ### Alternate Characters
 
