@@ -131,8 +131,8 @@ You **do not** need to put in a lot of **investment** to make them good a Sub DP
     </tr>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
-        <br />Example Character</td>
+        <img src="../../.gitbook/assets/ui_avataricon_lisa.png" alt/>
+        <br />Lisa</td>
       <td style="text-align:left">
         <ul>
           <li>Lisa&#x2019;s <b>Elemental Burst</b> can allow her to <b>frequently apply electro</b> and <b>shred enemy Defense</b> with
