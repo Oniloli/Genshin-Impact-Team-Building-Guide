@@ -133,7 +133,21 @@ You **do not** need to put in a lot of **investment** to make them good a Sub DP
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
         <br />Example Character</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Lisa&#x2019;s <b>Elemental Burst</b> can allow her to <b>frequently apply electro</b> and <b>shred enemy Defense</b> with
+            her second Ascension Talent.</li>
+          <li>She has one of the <b>hardest hitting Elemental skills (Hold E)</b> in the
+            game compared to other elemental skills. You can get <b>more than one stack</b> on
+            a single E tap/charge attack through <b>Overloaded/Superconduct Reactions</b> allowing
+            you to deal maximum damage with her <b>Hold E</b> more often.</li>
+          <li>Like all of the other Electro Sub DPS characters, she usually does not
+            function well in teams that rely on multiplicative reactions such as Melt
+            and Vaporize but can perform well in <b>Electro-Charge</b> teams or even<b> neutral damage teams</b> such
+            as with Xiao simply for her <b>Defense Debuff.</b>
+          </li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
