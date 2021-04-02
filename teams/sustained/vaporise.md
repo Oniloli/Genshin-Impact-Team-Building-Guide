@@ -125,7 +125,7 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
 
 ## Main DPS 
 
-### Example Character ![](../../.gitbook/assets/ui_avataricon_aether.png) 
+### Diluc ![](../../.gitbook/assets/ui_avataricon_diluc.png) 
 
 Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder 
 
