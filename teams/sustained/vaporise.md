@@ -109,8 +109,8 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
           <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzjHbhWi0HFRNfikc%2Fui_avataricon_xiangling.png?alt=media&amp;token=edef708d-5200-4f80-b313-2c87ce99cb5a"
           alt/>
         </p>
-        <p>C1 Xiangling</p>
-        <p>(Burst)</p>
+        <p>Xiangling</p>
+        <p>(C1, Burst)</p>
       </td>
       <td style="text-align:center">
         <p>
