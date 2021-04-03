@@ -306,7 +306,17 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
       <td style="text-align:center">&#x200B;&#x200B;
         <img src="../../.gitbook/assets/ui_avataricon_aether.png"
         alt/>Anemo Traveler</td>
-      <td style="text-align:left">This retard needs abyss help!</td>
+      <td style="text-align:left">
+        <p>Anemo Traveler is like Sucrose but without the Buffing. with a 4-set VV
+          he can debuff enemies with his/her skills. The main downside is that his
+          Elemental Burst makes it hard for diluc to reach small enemies because
+          his tornado sucks them up and move them away from him resulting in lost
+          DPS.</p>
+        <p>If you manage to get the tornado to stay still by having it hit an obstacle
+          you can&apos;t reach them with some melee attacks because the tornado lifts
+          them up in the air. This makes Anemo traveler be better used more for his
+          Elemental Skill.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
