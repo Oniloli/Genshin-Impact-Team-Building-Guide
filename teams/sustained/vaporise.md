@@ -294,25 +294,21 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
         alt/>Zhongli</td>
       <td style="text-align:left">
         <ul>
-          <li>Zhongli acts more as a <b>safer approach</b> compared to Sucrose. He is
-            one of the <b>best Support characters</b> in the game because of his <b>shield</b>.
-            He is the only Shielder in the game to have a <b>100% uptime</b> on his shield,
-            as his shield can be <b>re-cast every 12 seconds</b> while the <b>duration</b> of
-            the shield itself is <b>16 seconds.</b> You also gain <b>Interruption Resistance</b> with
-            his shield active. This means that attacks that can <b>stagger</b> or <b>knock you back</b> almost
-            has <b>no effect</b> at all allowing you to do DPS combos more easily.</li>
-          <li>The main thing that makes him extremely powerful and work in most teams
-            is that his Shield <b>Debuffs</b> enemies that are close by removing <b>20% Resistance on Everything.</b> He
-            Shreds <b>Elemental</b> and <b>Physical Resistance</b> allowing any Main DPS
-            to deal more damage while at the same time being safe from harm.</li>
-          <li>So while Sucrose can shred more Elemental Resistance, Zhongli can <b>potentially be better</b> for <b>some players</b> depending
-            on skill and gear because of the shield tanking enemy attacks and allowing
-            you to focus more on dealing DPS.</li>
-          <li>His Elemental Burst is also very strong. If you build less on his shield
-            and more on damage his Meteor deals massive <b>Burst Damage</b> and at the
-            same time any enemy that is hit is <b>petrified</b> for a few seconds allowing
-            you to <b>set up</b> strong <b>DPS combos.</b>
+          <li>Zhongli allows for <b>more safety</b> than Sucrose at the <b>cost</b> of additional
+            EM. He boasts a very <b>strong shield</b> which can allow the DPS to do their
+            combos without being afraid of getting <b>interrupted.</b>
           </li>
+          <li>His shield&apos;s main benefit besides shielding is the Resistance Reduction.
+            Enemies near Zhongli&apos;s shield receive a <b>20% Resistance Reduction to all types of damage.</b> It&apos;s
+            also the only shield in the game that has 100% uptime. It can be <b>re-cast</b> every <b>12 seconds</b> and
+            its <b>duration is 16 seconds.</b> 
+          </li>
+          <li>Although Zhongli reduces resistances by just 20% compared to 40% with
+            Sucrose, his resistance reduction comes <b>passively</b>, and <b>doesn&apos;t require you to switch</b> to
+            Sucrose and swirl a specific element.</li>
+          <li>His <b>Elemental Burst</b> deals a lot of damage which can make up for some
+            of the damage lost by having less EM, and also <b>petrifies </b>enemies
+            for a few seconds allowing you to set up certain combos.</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +398,7 @@ His Elemental Burst also **applies Pyro** to **your character** when inside the 
 
 The main downside with this Elemental Burst is that only the **active character** can receive its benefits. So if one of your characters that need healing is off-field you need to **switch** to them so they can get healed. If your Bennet is **C0** you also **lose the ability to Buff** your characters while they are being **healed**. Only when Bennet is **C1** does he **Heal and Buff at the same time.**
 
-Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives 2-3 energy particles and has it has a **Cooldown** of **5 seconds.** If inside his **Elemental Burst** the **cooldown is halved** allowing him to spam his E Tap non-stop and regenerating a lot of energy for the team.
+Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives 2-3 energy particles and has it has a **Cooldown** of **5 seconds.** If inside his **Elemental Burst** the **cooldown is halved** allowing him to spam his E Tap non-stop regenerating a lot of energy for the team.
 
 ### Alternate Characters
 
