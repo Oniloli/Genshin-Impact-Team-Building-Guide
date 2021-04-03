@@ -183,7 +183,29 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_hutao.png" alt/>
         <br />Hu Tao</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Hu Tao is very close to Diluc as they can both use the same Team comps.
+            She mainly uses her <b>Charged Attacks</b> for <b>Sustained</b> DPS and her
+            Elemental Burst hits very hard.</li>
+          <li>Her <b>Elemental Skill Infuses</b> her <b>Normal Attacks with Pyro</b> while
+            Diluc gets his <b>Infusion</b> from his <b>Elemental Burst.</b> They both rely
+            on Xingqiu on consistent Hydro Application and Vaporize every attack they
+            do.</li>
+          <li>The main difference between Hu Tao and Diluc mainly comes down to their <b>individual playstyle</b> and <b>mechanics.</b> When
+            Hu Tao uses her Elemental Skill she loses <b>30% of her Current Maximum HP</b> for
+            the infusion. Since she relies Charged Attacks for Sustained DPS if she
+            isn&apos;t <b>C1</b> she has to be careful with <b>managing</b> her <b>stamina.</b> She
+            can however <b>heal</b> when she <b>hits enemies</b> with her <b>Elemental Burst,</b> more
+            healing the more enemies you hit.</li>
+          <li>When Hu Tao is <b>below 50% H</b>P she gets a <b>DPS increase</b> as her <b>2nd Passive Talent</b> gives
+            her<b> 33% Pyro DMG</b> and her Elemental Burst <b>Damage Ratios</b> also
+            Increase. Because of her mechanic requiring her to be below 50% HP she
+            is the <b>only character</b> that <b>doesn&apos;t work</b> well <b>with Bennet</b> as
+            a Sustained DPS.</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
