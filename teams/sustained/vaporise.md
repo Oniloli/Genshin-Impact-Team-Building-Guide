@@ -262,13 +262,13 @@ Sucrose serves mainly as a Buffer and a Debuffer in this comp. For the Buffing p
 
 The Debuffing of Sucrose's kit is her **Viridescent Venerer 4-set artifact**. With a 4-set VV she will **reduce** the **Elemental Resistance** of any **element she swirls by 40% for 10s.** This means if Sucrose uses her Elemental Skill and swirls Pyro on enemies they will lose 40% Pyro Resistance and also Buff your Pyro DPS with more Elemental Mastery at **the same time.**
 
-Her **Elemental Burst** is also very strong because it has the ability to Infuse the element it first swirls with. It also lifts small enemies up into the air and **slowly pulls them** to the **center-point** of her Burst providing strong **Grouping CC** and also **Elemental Applications** your Main DPS can take advantage of.
+Her **Elemental Burst** is also very strong because it has the ability to Infuse the element it first swirls with. It also lifts small enemies up into the air and **slowly pulls them** to the **center-point** of her Burst providing strong **Crowd Control** and also **Element Applications** your Main DPS can take advantage of.
 
 ### Alternate Characters
 
 |  |  |
 | :---: | :--- |
-| ​​![](../../.gitbook/assets/ui_avataricon_zhongli.png) Zhongli | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
+| ​​![](../../.gitbook/assets/ui_avataricon_zhongli.png) Zhongli | Zhongli acts more as a safer approach compared to Sucrose. He is one of the best Support characters in the game because of his main |
 | ​​![](../../.gitbook/assets/ui_avataricon_aether.png) Anemo Traveler | This retard needs abyss help! |
 | ![](../../.gitbook/assets/ui_avataricon_venti.png) Venti |  |
 | ![](../../.gitbook/assets/ui_avataricon_xiangling.png) Xiangling |  |
