@@ -236,7 +236,7 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
 
 ### Sucrose ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-Sucrose serves mainly as a Buffer and a Debuffer in this comp. For the Buffing part of Sucrose it all comes from her Passive Talents. Her **1st Passive Talent** is when she creates a **swirl reaction** any party member that's **matching the element** that got swirled gains **50 Elemental Mastery** \(If Pyro is swirled, only Pyro Characters get 50 EM\) for **8 seconds**. Her **2nd Passive Talent** is when she **casts** her **Elemental Skill** **every single party member** except her gains **20%** of her **Elemental Mastery** for **8 seconds.** These passives **stack together** and so it also recommended to have extremely **High Elemental Mastery** on her to buff your Main DPS as much as possible.
+Sucrose serves mainly as a Buffer and a Debuffer in this comp. For the Buffing part of Sucrose it all comes from her Passive Talents. Her **1st Passive Talent** is when she creates a **swirl reaction** any party member that's **matching the element** that got swirled gains **50 Elemental Mastery** \(If Pyro is swirled, only Pyro Characters get 50 EM\) for **8 seconds**. Her **2nd Passive Talent** is when she casts her **Elemental Skill** **every single party member** except her gains **20%** of her **Elemental Mastery** for **8 seconds.** These passives **stack together** and so it also recommended to have extremely **High Elemental Mastery** on her to buff your Main DPS as much as possible.
 
 The Debuffing of Sucrose's kit is her **Viridescent Venerer 4-set artifact**. With a 4-set VV she will **reduce** the **Elemental Resistance** of any **element she swirls by 40% for 10s.** This means if Sucrose uses her Elemental Skill and swirls Pyro on enemies they will lose 40% Pyro Resistance and also Buff your Pyro DPS with more Elemental Mastery at **the same time.**
 
@@ -255,13 +255,13 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
 
 ### Bennett ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-Bennett is the **Main Healer** in this comp, but he also serves as the **Main buffer**. His **Elemental Burs**t is what makes Bennett one of the **best support characters** in the game. When he casts his Elemental Burst It creates a **small AoE zone** that provides Buffs and Healing. The **Healing Rate** is higher than any other healer in the game so far although he only startshealing below **70% Maximum HP.** 
+Bennett is the **Main Healer** in this comp, but he also serves as the **Main buffer**. His **Elemental Burst** is what makes Bennett one of the **best support characters** in the game. When he casts his Elemental Burst It creates a **small AoE zone** that provides Buffs and Healing. The **Healing Rate** is higher than any other healer in the game so far although he only starts healing below **70% Maximum HP.**
 
-The Buff that Bennett provides with his Elemental Burst is a **Flat ATK Boost** and it is the strongest buff in the game currently compared to other characters. The strength of the Buff can only scales from his **Talent Level, Character Level** and **Base Attack** of his weapon. Attack Stats from artifacts **Do Not** make his buffing stronger. This means that with **minimal investment** Bennett can instantly become extremely good in **almost every team.**
+The Buff that Bennett provides with his Elemental Burst is a **Flat ATK Boost** and it is the strongest buff in the game currently compared to other characters. The **strength** of the Buff can only scales from his **Talent Level, Character Level** and **Base Attack** of his weapon. Attack Stats from artifacts **Do Not** make his buffing stronger. This means that with **minimal investment** Bennett can instantly become extremely good in **almost every team.**
 
 His Elemental Burst also **applies Pyro** to **your character** when inside the **AoE.** This means that if you are hit by Elemental Debuffs from Domains and Abyss you can **cleanse** it and not suffer its effects.
 
-The main downside with this Elemental Burst is that only the **active character** can receive its benefits. So if one of your characters that need healing is off-field you need to **switch** to them so they can get healed.
+The main downside with this Elemental Burst is that only the **active character** can receive its benefits. So if one of your characters that need healing is off-field you need to **switch** to them so they can get healed. If your Bennet is **C0** you also **lose the ability to Buff** your characters while they are being **healed**. Only when Bennet is **C1** does he **Heal and Buff at the same time.**
 
 Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives 2-3 energy particles and has it has a **Cooldown** of **5 seconds.** If inside his **Elemental Burst** the **cooldown is halved** allowing him to spam his E Tap non-stop and regenerating a lot of energy for the team.
 
