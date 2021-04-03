@@ -1,7 +1,7 @@
 # Vaporise
 
 {% hint style="danger" %}
-This is just a Team Comp Example. It is encouraged that you do not have to follow this comp as the meta constantly changes. In the end you should play the comp that you want.
+This is just a **Meta Team Comp Example.** You **do not** have to follow this comp as the meta **constantly changes.** In the end it is encouraged you should play the comp that **you want.**
 {% endhint %}
 
 This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with a focus on **vaporizing** every one of Diluc’s **Elemental Skill Taps** and his **Auto Attacks** when possible resulting in a constant **1.5x Damage Multiplier** on Diluc’s attacks.
@@ -62,7 +62,7 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_zhongli.png" alt/>
           <br />Example Character</p>
-        <p>(Shielder, Debuffer.
+        <p>(Shielder, Debuffer,
           <br />Burst)</p>
       </td>
       <td style="text-align:center">
