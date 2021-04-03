@@ -266,12 +266,60 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
 
 ### Alternate Characters
 
-|  |  |
-| :---: | :--- |
-| ​​![](../../.gitbook/assets/ui_avataricon_zhongli.png) Zhongli | Zhongli acts more as a safer approach compared to Sucrose. He is one of the best Support characters in the game because of his main |
-| ​​![](../../.gitbook/assets/ui_avataricon_aether.png) Anemo Traveler | This retard needs abyss help! |
-| ![](../../.gitbook/assets/ui_avataricon_venti.png) Venti |  |
-| ![](../../.gitbook/assets/ui_avataricon_xiangling.png) Xiangling |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_zhongli.png"
+        alt/>Zhongli</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Zhongli acts more as a <b>safer approach</b> compared to Sucrose. He is
+            one of the <b>best Support characters</b> in the game because of his <b>shield</b>.
+            He is the only Shielder in the game to have a <b>100% uptime</b> on his shield,
+            as his shield can be <b>re-cast every 12 seconds</b> while the <b>duration</b> of
+            the shield itself is <b>16 seconds.</b> You also gain <b>Interruption Resistance</b> with
+            his shield active. This means that attacks that can <b>stagger</b> or <b>knock you back</b> almost
+            has <b>no effect</b> at all allowing you to do DPS combos more easily.</li>
+          <li>The main thing that makes him extremely powerful and work in most teams
+            is that his Shield <b>Debuffs</b> enemies that are close by removing <b>20% Resistance on Everything.</b> He
+            Shreds <b>Elemental</b> and <b>Physical Resistance</b> allowing any Main DPS
+            to deal more damage while at the same time being safe from harm.</li>
+          <li>So while Sucrose can shred more Elemental Resistance, Zhongli can <b>potentially be better</b> for <b>some players</b> depending
+            on skill and gear because of the shield tanking enemy attacks and allowing
+            you to focus more on dealing DPS.</li>
+          <li>His Elemental Burst is also very strong. If you build less on his shield
+            and more on damage his Meteor deals massive <b>Burst Damage</b> and at the
+            same time any enemy that is hit is <b>petrified</b> for a few seconds allowing
+            you to <b>set up</b> strong <b>DPS combos.</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_aether.png"
+        alt/>Anemo Traveler</td>
+      <td style="text-align:left">This retard needs abyss help!</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/>Venti</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_xiangling.png" alt/>Xiangling</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Survival
 
