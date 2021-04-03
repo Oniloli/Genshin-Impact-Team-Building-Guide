@@ -253,12 +253,12 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
             in a <b>massive DPS loss</b>. Even though her Elemental Skill isn&apos;t
             consistent it does provide some <b>CC</b> because it can <b>taunt enemies.</b> 
           </li>
-          <li>Her <b>main strength</b> comes into her <b>Elemental Burst</b>. When she
-            cast&apos;s her Elemental Burst it <b>lifts up small enemies</b> like how
-            they are <b>trapped inside a bubble</b> and <b>applies Omen,</b> which increases
+          <li>Her <b>main strength</b> comes from her <b>Elemental Burst</b>. When she
+            casts her Elemental Burst it <b>lifts up small enemies</b> like how they
+            are <b>trapped inside a bubble</b> and <b>applies Omen,</b> which increases
             the damage enemies take. When you use your <b>Main DPS Elemental Burst</b> it
-            will be <b>way stronger</b> because of Omen. You also pop her her bubble
-            and that will also deal high Burst Damage on top of your Main DPS Burst.</li>
+            will be <b>way stronger</b> because of Omen. You also pop her bubble and
+            that will also deal high Burst Damage on top of your Main DPS Burst.</li>
           <li>Omen will expire after <b>4 seconds </b>of bubble being popped and her
             Elemental Burst costs <b>60 Energy</b> to cast. This means that there will
             be a <b>large DPS downtime</b> when Mona doesn&apos;t have her burst active.</li>
