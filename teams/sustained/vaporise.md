@@ -250,8 +250,8 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
         <ul>
           <li>Mona makes the <b>entire comp</b> play more of a<b> burst playstyle.</b> Compared
             to Xingqiu her Hydro Application <b>isn&apos;t as consistent</b> which results
-            in a <b>massive DPS loss</b> sustained wise. Even though her Elemental Skill
-            isn&apos;t consistent it does provide some <b>CC</b> because it can <b>taunt enemies.</b> 
+            in a <b>massive DPS loss</b>. Even though her Elemental Skill isn&apos;t
+            consistent it does provide some <b>CC</b> because it can <b>taunt enemies.</b> 
           </li>
           <li>Her <b>main strength</b> comes into her <b>Elemental Burst</b>. When she
             cast&apos;s her Elemental Burst it <b>lifts up small enemies</b> like how
