@@ -235,14 +235,16 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
 
 ### Sucrose ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-Sucrose serves mainly as a Buffer and a Debuffer in this comp. 
+Sucrose serves mainly as a Buffer and a Debuffer in this comp. For the Buffing part of Sucrose it all comes from her Passive Talents. 
 
 ### Alternate Characters
 
 |  |  |
-| :--- | :--- |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This retard needs abyss help! |
+| :---: | :--- |
+| ​​![](../../.gitbook/assets/ui_avataricon_zhongli.png) Zhongli | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
+| ​​![](../../.gitbook/assets/ui_avataricon_aether.png) Anemo Traveler | This retard needs abyss help! |
+| ![](../../.gitbook/assets/ui_avataricon_venti.png) Venti |  |
+| ![](../../.gitbook/assets/ui_avataricon_xiangling.png) Xiangling |  |
 
 ## Survival
 
@@ -253,9 +255,11 @@ Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placehol
 ### Alternate Characters
 
 |  |  |
-| :--- | :--- |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This retard needs abyss help! |
+| :---: | :--- |
+| ​​![](../../.gitbook/assets/ui_avataricon_diona.png) Diona | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
+| ​​![](../../.gitbook/assets/ui_avataricon_jean.png) Jean | This retard needs abyss help! |
+| ![](../../.gitbook/assets/ui_avataricon_barbara.png) Barbara |  |
+| ![](../../.gitbook/assets/ui_avataricon_qiqi.png) Qiqi |  |
 
 ## Damage Rotation
 
