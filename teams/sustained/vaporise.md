@@ -191,16 +191,45 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
 
 ### Xingqiu ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
 
-Xingqiu plays a **core role** in **every Sustained Team** with a **Pyro Main DPS.** The reason why he is a **top pick** for **Reverse Vaporize** is because he **applies Hydro very consistently**, more so compared to other characters during his **Elemental Burst**. This makes **Most Pyro DPS** be able to **Vaporize Every Attack** 
+Xingqiu plays a **core role** in **every Sustained Team** with a **Pyro Main DPS.** The reason why he is a **top pick** for **Reverse Vaporize** is because he **applies Hydro very consistently**, more so compared to other characters during his **Elemental Burst**. This makes **Most Pyro DPS** be able to **Vaporize Every Attack.** His Damage with his Rain Swords during his Burst is also very high if he is invested with proper gear. His **Rain Swords** will **only appear** if your **on-field character** does a **Normal Attack.**
 
-* With his extreme damage and **rapid Hydro applications**, Xingqiu is one of the **strongest Sub DPS** characters in the game. 
-* Xingqiu **compliments Pyro DPS** characters such as Hu Tao and Diluc especially well through enabling frequent **Vaporize Reactions**, but can perform well even in neutral-element compositions simply through his damage.
+Because Xingqiu's Elemental Burst is what makes him so strong it is recommended to have a lot of **Energy Recharge** so you can cast your Elemental Burst **as often as possible**. Having a **Weapon and Sands Artifact with Energy Recharge** is what most people should be aiming for when building Xingqiu.
 
 ### Alternate Characters
 
-|  |  |
-| :---: | :--- |
-| ​​![](../../.gitbook/assets/ui_avataricon_mona.png) Mona | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_mona.png"
+        alt/>Mona</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Mona makes the entire comp play more of a burst playstyle. Compared to
+            Xingqiu her Hydro Application isn&apos;t as consistent which results in
+            a massive DPS loss sustained wise. Even though her Elemental Skill isn&apos;t
+            consistent it does provide some CC because it can taunt enemies.</li>
+          <li>Her main strength comes into her Elemental Burst. When she cast&apos;s
+            her Elemental Burst it lift up small enemies like how they are trapped
+            inside a bubble and applies Omen, which increases the damage enemies take.
+            When you use your Main DPS Elemental Burst it will be way stronger because
+            of Omen. You also pop her her bubble and that will also deal high Burst
+            Damage on top of your Main DPS Burst.</li>
+          <li>Omen will expire after 4 seconds of bubble being popped and her Elemental
+            Burst costs 80 Energy to cast. This means that there will be a large DPS
+            downtime when Mona doesn&apos;t have her burst active.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Support/Sub DPS
 
