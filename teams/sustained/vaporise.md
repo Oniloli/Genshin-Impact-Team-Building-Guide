@@ -40,7 +40,8 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
-        <p>(Healer, Buffer)</p>
+        <p>(Healer, Buffer,
+          <br />Energy Battery)</p>
       </td>
     </tr>
     <tr>
@@ -252,9 +253,17 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
 
 ## Survival
 
-### Bennet ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
+### Bennett ![](../../.gitbook/assets/ui_avataricon_bennett.png) 
 
-Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder 
+Bennett is the **Main Healer** in this comp, but he also serves as the **Main buffer**. His **Elemental Burs**t is what makes Bennett one of the **best support characters** in the game. When he casts his Elemental Burst It creates a **small AoE zone** that provides Buffs and Healing. The **Healing Rate** is higher than any other healer in the game so far although he only startshealing below **70% Maximum HP.** 
+
+The Buff that Bennett provides with his Elemental Burst is a **Flat ATK Boost** and it is the strongest buff in the game currently compared to other characters. The strength of the Buff can only scales from his **Talent Level, Character Level** and **Base Attack** of his weapon. Attack Stats from artifacts **Do Not** make his buffing stronger. This means that with **minimal investment** Bennett can instantly become extremely good in **almost every team.**
+
+His Elemental Burst also **applies Pyro** to **your character** when inside the **AoE.** This means that if you are hit by Elemental Debuffs from Domains and Abyss you can **cleanse** it and not suffer its effects.
+
+The main downside with this Elemental Burst is that only the **active character** can receive its benefits. So if one of your characters that need healing is off-field you need to **switch** to them so they can get healed.
+
+Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives 2-3 energy particles and has it has a **Cooldown** of **5 seconds.** If inside his **Elemental Burst** the **cooldown is halved** allowing him to spam his E Tap non-stop and regenerating a lot of energy for the team.
 
 ### Alternate Characters
 
