@@ -6,6 +6,12 @@ The main damage source for a Sustained DPS is normally their **Normal** and/or t
 
 Compared to a Burst Main DPS Team a Sustained DPS Team doesn't need as much investment to perform well because of their DPS consistency. Sustained Main DPS are also easier to play since you don't have to worry about **Energy** on their Elemental Bursts as much, and their DPS combos are simple and easy to grasp.
 
+---
+
+Stuff about Selfish dps \(xiao here\) can't be asked to type it for now...
+
+---
+
 There are characters where they can perform both a Sustained and Burst role but they typically lean better on one or the other.
 
 {% hint style="info" %}

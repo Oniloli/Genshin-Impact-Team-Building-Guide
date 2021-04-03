@@ -260,7 +260,7 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
             will be <b>way stronger</b> because of Omen. You also pop her her bubble
             and that will also deal high Burst Damage on top of your Main DPS Burst.</li>
           <li>Omen will expire after <b>4 seconds </b>of bubble being popped and her
-            Elemental Burst costs <b>80 Energy</b> to cast. This means that there will
+            Elemental Burst costs <b>60 Energy</b> to cast. This means that there will
             be a <b>large DPS downtime</b> when Mona doesn&apos;t have her burst active.</li>
         </ul>
       </td>
