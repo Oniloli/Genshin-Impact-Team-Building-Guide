@@ -161,20 +161,28 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
         alt/>
         <br />Klee</td>
       <td style="text-align:left">
-        <p>Klee compared to Diluc leans more towards <b>Burst DPS playstyle</b> but
-          can still deal great Sustained DPS nevertheless. Klee relies on her <b>Normal</b> and <b>Charged Attacks</b> to
-          be <b>Vaporized.</b>
-        </p>
-        <p>Her main downside is her <b>Elemental Burst.</b> While it is very strong
-          Xingqiu <b>cannot keep up</b> with Klee because <b>she applies Pyro faster</b> than
-          Xingqiu during her burst and this can result in<b> lost DPS</b> as <b>Xingqiu will Vaporize instead of Klee.</b> 
-        </p>
-        <p>However if you have a <b>Venti</b> with a <b>Hydro/Cryo Infused Elemental Burst</b> you
-          can potentially <b>Melt/Vaporize every single attack</b> from Klee during
-          her burst which is why she is more <b>Burst orientated</b> compared to Diluc
-          because her DPS will decrease as long as Venti&apos;s and Xingqiu&apos;s
-          Elemental Burst isn&apos;t active at the same time.</p>
+        <ul>
+          <li>Klee compared to Diluc leans more towards <b>Burst DPS playstyle</b> but
+            can still deal great Sustained DPS nevertheless. Klee relies on her <b>Normal</b> and <b>Charged Attacks</b> to
+            be <b>Vaporized.</b>
+          </li>
+          <li>Her main downside is her <b>Elemental Burst.</b> While it is very strong
+            Xingqiu <b>cannot keep up</b> with Klee because <b>she applies Pyro faster</b> than
+            Xingqiu during her burst and this can result in<b> lost DPS</b> as <b>Xingqiu will Vaporize instead of Klee.</b> 
+          </li>
+          <li>However if you have a <b>Venti</b> with a <b>Hydro/Cryo Infused Elemental Burst</b> you
+            can potentially <b>Melt/Vaporize every single attack</b> from Klee during
+            her burst which is why she is more <b>Burst orientated</b> compared to Diluc
+            because her DPS will decrease as long as Venti&apos;s and Xingqiu&apos;s
+            Elemental Burst isn&apos;t active at the same time.</li>
+        </ul>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_hutao.png" alt/>
+        <br />Hu Tao</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
@@ -183,7 +191,7 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
 
 ### Xingqiu ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)
 
-Xingqiu plays a **core role** in **every Sustained Team** with a **Pyro Main DPS.** The reason why he is a top pick for Reverse Vaporize is because he applies Hydro very consistently, more so compared to other characters during his Elemental Burst. This makes most Pyro DPS 
+Xingqiu plays a **core role** in **every Sustained Team** with a **Pyro Main DPS.** The reason why he is a **top pick** for **Reverse Vaporize** is because he **applies Hydro very consistently**, more so compared to other characters during his **Elemental Burst**. This makes **Most Pyro DPS** be able to **Vaporize Every Attack** 
 
 * With his extreme damage and **rapid Hydro applications**, Xingqiu is one of the **strongest Sub DPS** characters in the game. 
 * Xingqiu **compliments Pyro DPS** characters such as Hu Tao and Diluc especially well through enabling frequent **Vaporize Reactions**, but can perform well even in neutral-element compositions simply through his damage.
