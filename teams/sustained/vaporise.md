@@ -117,11 +117,11 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
       <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>&#x200B;&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzjHbhWi0HFRNfikc%2Fui_avataricon_xiangling.png?alt=media&amp;token=edef708d-5200-4f80-b313-2c87ce99cb5a"
+          <img src="../../.gitbook/assets/ui_avataricon_albedo.png"
           alt/>
         </p>
-        <p>Xiangling</p>
-        <p>(C1, Burst)</p>
+        <p>Albedo</p>
+        <p>(Off-field, Buffer)</p>
       </td>
       <td style="text-align:center">
         <p>
@@ -130,6 +130,19 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>Qiqi</p>
         <p>(Healer)</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>&#x200B;&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MXDyxY2ya_3yLfk7_sH%2F-MXDzjHbhWi0HFRNfikc%2Fui_avataricon_xiangling.png?alt=media&amp;token=edef708d-5200-4f80-b313-2c87ce99cb5a"
+          alt/>
+        </p>
+        <p>Xiangling</p>
+        <p>(C1, Burst)</p>
+      </td>
+      <td style="text-align:center"></td>
     </tr>
   </tbody>
 </table>
@@ -342,9 +355,36 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
     </tr>
     <tr>
       <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_albedo.png" alt/>Albedo</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Albedo can work with Diluc mainly because of his<b> Elemental Burst</b>.
+            When Albedo casts his Burst he will give <b>125 Elemental Mastery</b> to
+            the entire party for <b>10 seconds.</b> This allows for Diluc to deal even
+            more damage on his vaporize reactions.</li>
+          <li>His Elemental Skill also deals <b>high damage off-field</b> consistently.
+            Crystalize doesn&apos;t interrupt Vaporize Reactions because the element
+            Geo Reacts with <b>doesnt get removed</b> so Diluc can still vaporize after
+            a Crystalize reaction.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_xiangling.png" alt/>Xiangling</td>
-      <td style="text-align:left">Xiangling can only work in a Diluc team if you need her for Pyro Resonance.
-        At C1</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Xiangling can only work in a Diluc team if you need her for Pyro Resonance.
+            At <b>C1</b> her Elemental Skill reduces <b>Pyro Resistance</b> of Enemies
+            by <b>15%</b> for <b>6 seconds.</b> 
+          </li>
+          <li>Even though she reduces Pyro Resistance she can steal Vaporise Reactions
+            from Diluc so its normally recommended to use her with Diluc if you <b>don&apos;t have Bennet</b> and
+            are using <b>Jean </b>as your <b>Healer/Debuffer.</b>
+          </li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -367,7 +407,7 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
 
 |  |  |
 | :---: | :--- |
-| ​​![](../../.gitbook/assets/ui_avataricon_diona.png) Diona | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
+| ​​![](../../.gitbook/assets/ui_avataricon_diona.png) Diona | Diona works extremely well with Pyro DPS. When you use her elemental Burst she |
 | ​​![](../../.gitbook/assets/ui_avataricon_jean.png) Jean | This retard needs abyss help! |
 | ![](../../.gitbook/assets/ui_avataricon_barbara.png) Barbara |  |
 | ![](../../.gitbook/assets/ui_avataricon_qiqi.png) Qiqi |  |
