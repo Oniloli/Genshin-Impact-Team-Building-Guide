@@ -155,18 +155,17 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
         alt/>
         <br />Klee</td>
       <td style="text-align:left">
-        <p></p>
         <p>Klee compared to Diluc leans more towards Burst DPS side but can still
-          deal Sustained DPS nevertheless. Klee relies on her</p>
-        <p></p>
-        <ul>
-          <li>Klee is a <b>very high-burst</b> Pyro mage who can dish out incredibly high
-            damage in short amounts of time.</li>
-          <li>Her <b>Normal and Charge</b> attacks <b>scale well</b> with <b>Vaporize</b>,
-            making Hydro application supports strong choices with her.</li>
-          <li><b>Elemental</b>  <b>buffers</b> and <b>debuffers</b> such as Sucrose can also
-            grant her much more DPS.</li>
-        </ul>
+          deal Sustained DPS nevertheless. Klee relies on her Normal and Charged
+          Attacks to be Vaporized.</p>
+        <p>Her main downside is her Elemental Burst. While it is very strong Xingqiu
+          cannot keep up with Klee because she applies Pyro faster than Xingqiu during
+          her burst and this can result in lost DPS.</p>
+        <p>However if you have a Venti with a Hydro/Cryo Infused Elemental Burst
+          you can potentially Melt/Vaporize every single Klee attack during her burst
+          which is why she is more burst orientated compared to Diluc because her
+          DPS will decrease as long as Venti&apos;s and Xingqiu&apos;s Elemental
+          Burst isn&apos;t active at the same time.</p>
       </td>
     </tr>
   </tbody>
