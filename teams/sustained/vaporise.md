@@ -235,7 +235,11 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
 
 ### Sucrose ![](../../.gitbook/assets/ui_avataricon_sucrose.png) 
 
-Sucrose serves mainly as a Buffer and a Debuffer in this comp. For the Buffing part of Sucrose it all comes from her Passive Talents. 
+Sucrose serves mainly as a Buffer and a Debuffer in this comp. For the Buffing part of Sucrose it all comes from her Passive Talents. Her **1st Passive Talent** is when she creates a **swirl reaction** any party member that's **matching the element** that got swirled gains **50 Elemental Mastery** \(If Pyro is swirled, only Pyro Characters get 50 EM\) for **8 seconds**. Her **2nd Passive Talent** is when she **casts** her **Elemental Skill** **every single party member** except her gains **20%** of her **Elemental Mastery** for **8 seconds.** These passives **stack together** and so it also recommended to have extremely **High Elemental Mastery** on her to buff your Main DPS as much as possible.
+
+The Debuffing of Sucrose's kit is her **Viridescent Venerer 4-set artifact**. With a 4-set VV she will **reduce** the **Elemental Resistance** of any **element she swirls by 40% for 10s.** This means if Sucrose uses her Elemental Skill and swirls Pyro on enemies they will lose 40% Pyro Resistance and also Buff your Pyro DPS with more Elemental Mastery at **the same time.**
+
+Her **Elemental Burst** is also very strong because it has the ability to Infuse the element it first swirls with. It also lifts small enemies up into the air and **slowly pulls them** to the **center-point** of her Burst providing strong **Grouping CC** and also **Elemental Applications** your Main DPS can take advantage of.
 
 ### Alternate Characters
 
