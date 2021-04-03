@@ -307,26 +307,44 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
         <img src="../../.gitbook/assets/ui_avataricon_aether.png"
         alt/>Anemo Traveler</td>
       <td style="text-align:left">
-        <p>Anemo Traveler is like Sucrose but without the Buffing. with a 4-set VV
-          he can debuff enemies with his/her skills. The main downside is that his
-          Elemental Burst makes it hard for diluc to reach small enemies because
-          his tornado sucks them up and move them away from him resulting in lost
-          DPS.</p>
-        <p>If you manage to get the tornado to stay still by having it hit an obstacle
-          you can&apos;t reach them with some melee attacks because the tornado lifts
-          them up in the air. This makes Anemo traveler be better used more for his
-          Elemental Skill.</p>
+        <ul>
+          <li>Anemo Traveler is like Sucrose but without the Buffing. with a 4-set VV
+            he can debuff enemies with his/her skills. The main downside is that his
+            Elemental Burst makes it hard for diluc to reach small enemies because
+            his tornado sucks them up and moves them away from him resulting in lost
+            DPS.</li>
+          <li>If you manage to get the tornado to stay still by having it hit an obstacle
+            you can&apos;t reach them with some melee attacks because the tornado lifts
+            them up in the air. This makes Anemo traveler be better used more for his
+            Elemental Skill.</li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/>Venti</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Venti is like the Anemo Traveler as well. They both<b> share same pros and cons</b>.
+            The main difference is that Venti is <b>slightly better</b> than traveler
+            at supporting Diluc.</li>
+          <li>First of all his Elemental Burst creates a <b>vortex</b> that sucks enemies.
+            While it still lifts enemies up into the air preventing Melee attacks to
+            reach them his burst does alot of damage and keep enemies into <b>one spot</b>.
+            So against <b>Larger Enemies</b> that can&apos;t be lifted up Diluc can still
+            hit them while Venti&apos;s Burst also deals damage which allows for very
+            consistent reactions.</li>
+          <li>His Elemental Skill is also better. He can more<b> AoE</b> on his skill
+            and it regenerates his Burst faster because it gives <b>more energy.</b>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_xiangling.png" alt/>Xiangling</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Xiangling can only work in a Diluc team if you need her for Pyro Resonance.
+        At C1</td>
     </tr>
   </tbody>
 </table>
