@@ -248,19 +248,20 @@ Because Xingqiu's Elemental Burst is what makes him so strong it is recommended 
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Mona makes the entire comp play more of a burst playstyle. Compared to
-            Xingqiu her Hydro Application isn&apos;t as consistent which results in
-            a massive DPS loss sustained wise. Even though her Elemental Skill isn&apos;t
-            consistent it does provide some CC because it can taunt enemies.</li>
-          <li>Her main strength comes into her Elemental Burst. When she cast&apos;s
-            her Elemental Burst it lift up small enemies like how they are trapped
-            inside a bubble and applies Omen, which increases the damage enemies take.
-            When you use your Main DPS Elemental Burst it will be way stronger because
-            of Omen. You also pop her her bubble and that will also deal high Burst
-            Damage on top of your Main DPS Burst.</li>
-          <li>Omen will expire after 4 seconds of bubble being popped and her Elemental
-            Burst costs 80 Energy to cast. This means that there will be a large DPS
-            downtime when Mona doesn&apos;t have her burst active.</li>
+          <li>Mona makes the <b>entire comp</b> play more of a<b> burst playstyle.</b> Compared
+            to Xingqiu her Hydro Application <b>isn&apos;t as consistent</b> which results
+            in a <b>massive DPS loss</b> sustained wise. Even though her Elemental Skill
+            isn&apos;t consistent it does provide some <b>CC</b> because it can <b>taunt enemies.</b> 
+          </li>
+          <li>Her <b>main strength</b> comes into her <b>Elemental Burst</b>. When she
+            cast&apos;s her Elemental Burst it <b>lifts up small enemies</b> like how
+            they are <b>trapped inside a bubble</b> and <b>applies Omen,</b> which increases
+            the damage enemies take. When you use your <b>Main DPS Elemental Burst</b> it
+            will be <b>way stronger</b> because of Omen. You also pop her her bubble
+            and that will also deal high Burst Damage on top of your Main DPS Burst.</li>
+          <li>Omen will expire after <b>4 seconds </b>of bubble being popped and her
+            Elemental Burst costs <b>80 Energy</b> to cast. This means that there will
+            be a <b>large DPS downtime</b> when Mona doesn&apos;t have her burst active.</li>
         </ul>
       </td>
     </tr>
