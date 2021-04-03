@@ -471,14 +471,15 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
         <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>Qiqi</td>
       <td style="text-align:left">
         <ul>
-          <li>Qiqi is the strongest healer in the game as she can keep anyone alive
-            almost any time no matter how much damage she or her party takes.</li>
+          <li>Qiqi is the <b>strongest healer</b> in the game as she can keep anyone alive
+            at almost any time no matter how much damage she or her party takes.</li>
           <li>When Qiqi uses her Elemental Skill it works just like Barbara&apos;s skill.
             She heals the entire party when she hits enemies but what makes her powerful
-            is that when she is at 4th Ascension (Level 60) her <b>2nd Passive Talent</b> creates
+            is that when she is at 4th Ascension (Level 60-70) her <b>2nd Passive Talent</b> creates
             a <b>Talisman</b> on an enemy which makes any character hitting said enemy <b>heal themselves</b>.</li>
-          <li>When she uses her <b>Elemental Burst</b> she <b>Bursts Heals </b>the<b> Entire Party, deals Cryo Damage</b> to
-            enemies and then <b>marks them</b> with the <b>healing Talismans.</b>
+          <li>When she uses her <b>Elemental Burst</b> she <b>Bursts Heals </b>the<b> </b>Entire
+            Party,<b> deals Cryo Damage</b> to enemies and then <b>marks them</b> with
+            the <b>healing Talismans.</b>
           </li>
           <li>The main downside with Qiqi is that outside of Healing she has <b>no Utility</b> whatsoever.
             She she <b>applies cyro infrequently</b> and she <b>doesn&apos;t </b>regenerate
