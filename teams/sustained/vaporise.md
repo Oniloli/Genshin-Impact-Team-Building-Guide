@@ -1,4 +1,4 @@
-# Vaporise
+# Vaporize
 
 {% hint style="danger" %}
 This is just a **Meta Team Comp Example.** You **do not** have to follow this comp as the meta **constantly changes.** In the end it is encouraged you should play the comp that **you want.**
@@ -342,11 +342,11 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
             The main difference is that Venti is <b>slightly better</b> than traveler
             at supporting Diluc.</li>
           <li>First of all his Elemental Burst creates a <b>vortex</b> that sucks enemies.
-            While it still lifts enemies up into the air preventing Melee attacks to
-            reach them his burst does alot of damage and keep enemies into <b>one spot</b>.
+            While it still lifts enemies up into the air <b>preventing Melee attacks</b> from
+            reaching them his burst does a lot of damage and keeps enemies into <b>one spot</b>.
             So against <b>Larger Enemies</b> that can&apos;t be lifted up Diluc can still
-            hit them while Venti&apos;s Burst also deals damage which allows for very
-            consistent reactions.</li>
+            hit them while Venti&apos;s Burst also deals damage which allows for very <b>consistent</b> reactions
+            and DPS.</li>
           <li>His Elemental Skill is also better. He can more<b> AoE</b> on his skill
             and it regenerates his Burst faster because it gives <b>more energy.</b>
           </li>
@@ -420,8 +420,9 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
       <td style="text-align:left">
         <ul>
           <li>Diona works extremely well with Pyro DPS. When you use her Elemental Burst
-            she <b>applies cryo</b> to enemies while <b>healing</b> allowing to Diluc to
-            periodically <b>Melt</b> instead of Vaporize. She can also shield Diluc.</li>
+            she creates a<b> small AoE </b>that <b>applies cryo</b> to enemies while <b>healing</b> at
+            the same time allowing to Diluc to periodically <b>Melt</b> instead of Vaporize.
+            She can also shield Diluc.</li>
           <li>You also gain <b>Interruption Resistance</b> with her shield active. This
             means that attacks that can <b>stagger</b> or <b>knock you back</b> almost
             has <b>no effect</b> at all allowing you to do DPS combos more easily.</li>
@@ -431,18 +432,63 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
     <tr>
       <td style="text-align:center">&#x200B;&#x200B;
         <img src="../../.gitbook/assets/ui_avataricon_jean.png"
-        alt/>JeanE</td>
-      <td style="text-align:left">This retard needs abyss help!</td>
+        alt/>Jean</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Jean is a well-rounded support that can work in most teams. Being an<b> Anemo character</b> she
+            can both <b>Heal</b> and <b>Debuff</b> (if she has 4-set VV) which can increase
+            your character possibilities when building your Team.</li>
+          <li>When she uses her Elemental Burst she <b>Burst Heals</b> the <b>entire party</b> by
+            a large chunk and leaves an <b>Anemo AoE</b> that heals your active character
+            for a <b>period of time</b>. Any Enemy that enters its <b>AoE</b> takes damage
+            and also <b>swirls</b> the element that it has.</li>
+          <li>Her Elemental Burst also <b>swirls elements</b> applied on <b>your character</b> when
+            inside the <b>AoE.</b> This means that if you are hit by Elemental Debuffs
+            from Domains and Abyss you can <b>cleanse</b> it and not suffer its effects.</li>
+          <li>Her Elemental Skill can also <b>Crowd Control </b>small enemies she can <b>toss the enemy</b> at
+            any direction. You can make toss them <b>out of the map</b> killing them
+            instantly or <b>high up</b> in the air so they take <b>Fall Damage.</b>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/>Barbara</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Barbara is a very good <b>F2P</b> healer for Diluc. When you use her Elemental
+            Skill she applies hydro to any enemies that she touches. Every enemy <b>she hits</b> while
+            her Elemental Skill is active will <b>heal the entire party. </b>
+          </li>
+          <li>She can also be a cleanser for the entire party as well because she applies
+            hydro to your active character although be careful as it <b>cannot remove Electro Debuffs.</b>
+          </li>
+          <li>Her Elemental Burst is just a <b>party-wide Burst Heal</b> so it should
+            only be used in an emergency.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>Qiqi</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Qiqi is the strongest healer in the game as she can keep anyone alive
+            almost any time no matter how much damage she or her party takes.</li>
+          <li>When Qiqi uses her Elemental Skill it works just like Barbara&apos;s skill.
+            She heals the entire party when she hits enemies but what makes her powerful
+            is that when she is at 4th Ascension (Level 60) her <b>2nd Passive Talent</b> creates
+            a <b>Talisman</b> on an enemy which makes any character hitting said enemy <b>heal themselves</b>.</li>
+          <li>When she uses her <b>Elemental Burst</b> she <b>Bursts Heals </b>the<b> Entire Party, deals Cryo Damage</b> to
+            enemies and then <b>marks them</b> with the <b>healing Talismans.</b>
+          </li>
+          <li>The main downside with Qiqi is that outside of Healing she has <b>no Utility</b> whatsoever.
+            She she <b>applies cyro infrequently</b> and she <b>doesn&apos;t </b>regenerate
+            energy for the team. In <b>late game healing isn&apos;t as important</b> so
+            she falls off fast.</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>

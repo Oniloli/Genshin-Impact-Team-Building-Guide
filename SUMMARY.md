@@ -34,7 +34,7 @@
 ## Team Examples <a id="teams"></a>
 
 * [Sustained](teams/sustained/README.md)
-  * [Vaporise](teams/sustained/vaporise.md)
+  * [Vaporize](teams/sustained/vaporise.md)
   * [Physical](teams/sustained/physical.md)
   * [Melt](teams/sustained/melt.md)
   * [Permafreeze](teams/sustained/permafreeze.md)
