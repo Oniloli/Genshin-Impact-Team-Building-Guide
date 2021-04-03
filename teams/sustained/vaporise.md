@@ -405,12 +405,47 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
 
 ### Alternate Characters
 
-|  |  |
-| :---: | :--- |
-| ​​![](../../.gitbook/assets/ui_avataricon_diona.png) Diona | Diona works extremely well with Pyro DPS. When you use her elemental Burst she |
-| ​​![](../../.gitbook/assets/ui_avataricon_jean.png) Jean | This retard needs abyss help! |
-| ![](../../.gitbook/assets/ui_avataricon_barbara.png) Barbara |  |
-| ![](../../.gitbook/assets/ui_avataricon_qiqi.png) Qiqi |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_diona.png"
+        alt/>Diona</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Diona works extremely well with Pyro DPS. When you use her Elemental Burst
+            she <b>applies cryo</b> to enemies while <b>healing</b> allowing to Diluc to
+            periodically <b>Melt</b> instead of Vaporize. She can also shield Diluc.</li>
+          <li>You also gain <b>Interruption Resistance</b> with her shield active. This
+            means that attacks that can <b>stagger</b> or <b>knock you back</b> almost
+            has <b>no effect</b> at all allowing you to do DPS combos more easily.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_jean.png"
+        alt/>JeanE</td>
+      <td style="text-align:left">This retard needs abyss help!</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt/>Barbara</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>Qiqi</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Damage Rotation
 
