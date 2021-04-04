@@ -492,8 +492,8 @@ With all of your characters Elemental Bursts fully charged the initial damage ro
   
 Sucrose Burst &gt; Bennett Burst &gt; Sucrose Skill &gt; Xingqiu Burst &gt; Xinqiu Skill &gt; Diluc Burst &gt; Diluc Skill/Normal attack combo
 
-* Sucrose Elemental Burst has an activation delay because she throws a bottle which summons her burst. 
-* You then use Bennett's Elemental Burst hitting the enemy and applying pyro before the first hit of Sucrose burst lands.
+* First you cast Sucrose's Elemental Burst. It has an Activation Delay because she throws a bottle on the ground which summons the attack. This allows you to apply an element before it's first hit
+* You then use Bennett's Elemental Burst hitting the enemy and applying pyro for Sucrose's Burst.
 * Quickly switch back to Sucrose and use her Elemental Skill. She will buff her team with Elemental Mastery and if she has a 4-set VV equipped she will also reduce the enemies Pyro Resistance by 40%.
 * 
 
