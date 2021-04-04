@@ -56,7 +56,7 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
           <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>
         </p>
         <p>Mona</p>
-        <p>(Burst)</p>
+        <p>(Burst, Debuffer)</p>
       </td>
       <td style="text-align:center">
         <p>
