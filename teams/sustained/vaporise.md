@@ -437,9 +437,9 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
           <li>Her Elemental Burst also <b>swirls elements</b> applied on <b>your character</b> when
             inside the <b>AoE.</b> This means that if you are hit by Elemental Debuffs
             from Domains and Abyss you can <b>cleanse</b> it and not suffer its effects.</li>
-          <li>Her Elemental Skill can also <b>Crowd Control </b>small enemies she can <b>toss the enemy</b> at
-            any direction. You can make toss them <b>out of the map</b> killing them
-            instantly or <b>high up</b> in the air so they take <b>Fall Damage.</b>
+          <li>Her Elemental Skill can also <b>Crowd Control </b>small enemies as she
+            can <b>toss the enemy</b> at any direction. You can make toss them <b>out of the map</b> killing
+            them instantly or <b>high up</b> in the air so they take <b>Fall Damage.</b>
           </li>
         </ul>
       </td>
