@@ -21,8 +21,7 @@ This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_diluc.png" alt/>
         </p>
-        <p><a href="../../team-roles/main-dps.md#list-of-sustained-dps-characters">Diluc</a>
-        </p>
+        <p>Diluc</p>
       </td>
       <td style="text-align:center">
         <p>
