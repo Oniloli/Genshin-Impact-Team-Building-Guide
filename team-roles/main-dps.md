@@ -74,10 +74,10 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
         <ul>
           <li>Klee is the playful Pyro mage who rains bombs on foes in small short bursts
             of incredibly high damage.</li>
-          <li>Her normal and charged attacks harmonise with hydro for vaporize, making
+          <li>Her <b>Normal</b> and <b>Charged</b> attacks harmonise with <b>Hydro</b> for <b>Vaporize,</b> making
             hydro application supports strong options.</li>
-          <li>Vaporize can be further boosted by supports that boosts Klee&apos;s Elemental
-            Mastery or shreds an enemy&apos;s Elemental Resistance.</li>
+          <li>Vaporize can be further <b>boosted</b> by supports that boosts Klee&apos;s <b>Elemental Mastery</b> or <b>shreds an enemy&apos;s Elemental Resistance.</b>
+          </li>
         </ul>
       </td>
     </tr>
@@ -88,16 +88,15 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Noelle is a beefy Geo DPS with large AOE attacks who prides herself in
-            her perfect mix of offense, defense and healing.</li>
-          <li>As a Geo DPS, Noelle is not reliant on elemental reactions for damage.
-            She instead relies on direct-buffer supports such as Bennett to increase
-            her damage.</li>
+          <li>Noelle is a beefy Geo DPS with large <b>AoE</b> attacks who prides herself
+            in her perfect mix of offense, defense and healing.</li>
+          <li>As a Geo DPS, Noelle is <b>not reliant on elemental reactions</b> for damage.
+            She instead relies on <b>direct-buffer supports</b> such as <b>Bennett</b> to
+            increase her damage.</li>
           <li>Because Noelle is extremely reliant on her burst, she should always be
-            paired with Energy Batteries, especially Geo, to maintain high burst up
-            times.</li>
-          <li>It is imperative to pair Noelle with another Geo character for the Geo
-            Resonance Buff.</li>
+            paired with <b>Energy Batteries,</b> especially Geo, to maintain high burst
+            up times.</li>
+          <li>It is imperative to pair Noelle with another Geo character for the <b>Geo Resonance</b> Buff.</li>
         </ul>
       </td>
     </tr>
@@ -110,11 +109,11 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
         <ul>
           <li>Ganyu is a formidable ranged Cryo DPS whose unique Charged Shot empowers
             high, consistent damage.</li>
-          <li>As a Cryo character, she has access to both Freeze and Melt teams. Paired
-            with an off-field Hydro Support, the Freeze archetype holds enemies in
-            place, making for easier shots to land and stronger survivability.</li>
-          <li>Melt teams provide the means for greater DPS than Freeze by using consistent
-            Pyro application from characters such as Xiangling.</li>
+          <li>As a Cryo character, she has access to both <b>Freeze and Melt</b> teams.
+            Paired with an off-field Hydro Support, the Freeze archetype holds enemies
+            in place, making for easier shots to land and stronger survivability.</li>
+          <li>Melt teams provide the means for greater DPS than Freeze by using <b>consistent Pyro application</b> from
+            characters such as Xiangling.</li>
         </ul>
       </td>
     </tr>
@@ -125,14 +124,15 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Hu Tao is an exceptional Pyro DPS whose damage is dependent on her health
-            pool.</li>
-          <li>Similar to Diluc, she benefits from consistent Hydro application for vaporize
-            reactions, making Xingqiu pair well with her.</li>
-          <li>Vaporize can be further boosted by supports that boosts Hu Tao&apos;s
-            Elemental Mastery or shreds an enemy&apos;s Elemental Resistance.</li>
-          <li>Hu Tao gains a damage bonus when under half health. As a result, dedicated
-            healers should be avoided as they may push her over this threshold.</li>
+          <li>Hu Tao is an exceptional Pyro DPS whose <b>damage is dependent on her health pool.</b>
+          </li>
+          <li><b>Similar to Diluc,</b> she benefits from <b>consistent Hydro application</b> for
+            Vaporize reactions, making Xingqiu pair well with her.</li>
+          <li>Vaporize can be further <b>boosted</b> by supports that boosts Hu Tao&apos;s <b>Elemental Mastery</b> or <b>shreds an enemy&apos;s Elemental Resistance.</b>
+          </li>
+          <li>Hu Tao gains a <b>damage bonus when under half health.</b> As a result,
+            dedicated <b>healers should be avoided</b> as they may push her over this
+            threshold.</li>
         </ul>
       </td>
     </tr>
@@ -143,11 +143,12 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Keqing is a nimble DPS who holds the flexibility to branch out into Physical
-            or Electro damage.</li>
-          <li>Physical Keqing values Superconduct, working well with cryo characters</li>
-          <li>Electro Keqing&#x2019;s supports revolve around shredding Elemental resistance
-            or providing Elemental Reactions such as Electro-charged</li>
+          <li>Keqing is a nimble DPS who holds the flexibility to branch out into <b>Physical or Electro damage.</b>
+          </li>
+          <li>Physical Keqing values <b>Superconduct,</b> working well with cryo characters</li>
+          <li>Electro Keqing&#x2019;s supports revolve around <b>shredding Elemental resistance</b> or
+            providing <b>Elemental Reactions</b> such as <b>Electro-charged.</b>
+          </li>
         </ul>
       </td>
     </tr>
@@ -159,11 +160,13 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
         <p></p>
         <ul>
           <li>Lady Ningguang is the Geo DPS of the Liyue Qixing. She wields a catalyst
-            and alternates between normal and charged attacks to maximise her damage.</li>
-          <li>A Geo DPS means Ningguang is not reliant on any Elemental reactions for
+            and alternates between <b>Normal</b> and <b>Charged</b> attacks to maximise
+            her damage.</li>
+          <li>A Geo DPS means Ningguang is <b>not reliant on any Elemental reactions</b> for
             damage.</li>
           <li>Similar to Noelle, it is desirable to have a second Geo Character in the
-            party for Geo resonance.</li>
+            party for<b> Geo resonance.</b>
+          </li>
           <li>Despite not depending on reactions to deal damage, off-field sub-DPS such
             as Fischl deal damage while churning out consistent shields alongside Ningguang&#x2019;s
             attack.</li>
@@ -177,16 +180,17 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>The vigilant Yaksha is an extremely selfish Anemo DPS whose specialty
-            is his AoE plunging attack.</li>
-          <li>Xiao is not reliant on any elemental reactions to deal damage and as such
-            benefits from direct-buffer supports such as Bennett.</li>
-          <li>Due to Xiao&#x2019;s heavy reliance on his Elemental Burst, an Anemo Energy
-            Battery is strongly recommended in any Xiao party to increase his particle
-            generation.</li>
-          <li>During his Elemental Burst, Xiao is vulnerable to damage and knockback.
-            Hence, it is advisable to pair him with interruption resistance supports
-            such as Xingqiu or Shielders.</li>
+          <li>The vigilant Yaksha is an extremely <b>selfish Anemo DPS</b> whose specialty
+            is his <b>AoE plunging attack.</b>
+          </li>
+          <li>Xiao is <b>not reliant on any elemental reactions</b> to deal damage and
+            as such benefits from <b>direct-buffer supports</b> such as <b>Bennett.</b>
+          </li>
+          <li>Due to Xiao&#x2019;s heavy reliance on his Elemental Burst, an<b> Anemo Energy Battery is strongly recommended</b> in
+            any Xiao party to increase his particle generation.</li>
+          <li>During his Elemental Burst, Xiao is <b>vulnerable to damage and knockback.</b> Hence,
+            it is advisable to pair him with <b>interruption resistance supports</b> such
+            as Xingqiu or Shielders.</li>
         </ul>
       </td>
     </tr>
@@ -200,11 +204,12 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
           <li>The vibrant harbinger, Tartaglia, is a Hydro DPS who fluctuates between
             melee and ranged. He enters the fray in his melee stance.</li>
           <li>Just like among the Harbingers, Tartaglia is unique among the DPS in the
-            sense that his overwhelming Hydro application enables his supports to deal
-            the bulk of the damage, rather than him. This permits two styles of DPS:
-            Electro-charged and Vaporize.</li>
-          <li>Electrocharged Childe is normally run with Beidou and/or Fischl while
-            Vaporize Childe is run with Xiangling and debuff supports such as Sucrose.</li>
+            sense that his <b>overwhelming Hydro application</b> enables his supports
+            to deal the bulk of the damage, rather than him. This permits two styles
+            of DPS: Electro-charged and Vaporize.</li>
+          <li><b>Electrocharged</b> Childe is normally run with <b>Beidou and/or Fischl</b> while <b>Vaporize</b> Childe
+            is run with <b>Xiangling</b> and <b>debuff supports</b> such as <b>Sucrose.</b>
+          </li>
         </ul>
       </td>
     </tr>
