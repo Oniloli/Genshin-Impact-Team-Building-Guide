@@ -57,7 +57,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
           <li>He pairs well with characters who can apply cryo off-field to maintain
             a superconduct status on enemies. He also pairs well with off-field healing
             due to his inability to swap out during his burst.</li>
-          <li>Electro batteries are strongly advised to maintain high burst uptime.</li>
+          <li>Electro Energy Batteries are strongly advised to maintain high burst uptime.</li>
         </ul>
       </td>
     </tr>
@@ -87,11 +87,12 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
           <li>Noelle is a beefy Geo DPS with large AOE attacks who prides herself in
             her perfect mix of offense, defense and healing.</li>
           <li>As a Geo DPS, Noelle is not reliant on elemental reactions for damage.
-            She instead relies on buff supports with flat out effects such as bennett
-            to increase her damage.</li>
+            She instead relies on direct-buffer supports such as Bennett to increase
+            her damage.</li>
           <li>Because Noelle is extremely reliant on her burst, she should always be
-            paired with batteries, especially geo, to maintain high burst up times.</li>
-          <li>It is imperative to pair Noelle with another geo character for the Geo
+            paired with Energy Batteries, especially Geo, to maintain high burst up
+            times.</li>
+          <li>It is imperative to pair Noelle with another Geo character for the Geo
             Resonance Buff.</li>
         </ul>
       </td>
@@ -123,9 +124,9 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
           <li>Hu Tao is an exceptional Pyro DPS whose damage is dependent on her health
             pool.</li>
           <li>Similar to Diluc, she benefits from consistent Hydro application for vaporize
-            procs, making a good pair with Xingqiu.</li>
-          <li>Vaporize can be further boosted by supports that boosts Diluc&apos;s Elemental
-            Mastery or shreds an enemy&apos;s Elemental Resistance.</li>
+            reactions, making Xingqiu pair well with her.</li>
+          <li>Vaporize can be further boosted by supports that boosts Hu Tao&apos;s
+            Elemental Mastery or shreds an enemy&apos;s Elemental Resistance.</li>
           <li>Hu Tao gains a damage bonus when under half health. As a result, dedicated
             healers should be avoided as they may push her over this threshold.</li>
         </ul>
@@ -160,7 +161,7 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
           <li>Similar to Noelle, it is desirable to have a second Geo Character in the
             party for Geo resonance.</li>
           <li>Despite not depending on reactions to deal damage, off-field sub-DPS such
-            as fischl deal damage while churning out consistent shields alongside Ningguang&#x2019;s
+            as Fischl deal damage while churning out consistent shields alongside Ningguang&#x2019;s
             attack.</li>
         </ul>
       </td>
@@ -172,15 +173,16 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>The vigilant Yaksha is an extremely selfish Anemo DPS specialty is his
-            AoE plunging attack.</li>
+          <li>The vigilant Yaksha is an extremely selfish Anemo DPS whose specialty
+            is his AoE plunging attack.</li>
           <li>Xiao is not reliant on any elemental reactions to deal damage and as such
             benefits from direct-buffer supports such as Bennett.</li>
-          <li>Due to Xiao&#x2019;s heavy reliance on his Elemental Burst, an Anemo battery
-            is strongly recommended in any Xiao party to increase his particle generation.</li>
+          <li>Due to Xiao&#x2019;s heavy reliance on his Elemental Burst, an Anemo Energy
+            Battery is strongly recommended in any Xiao party to increase his particle
+            generation.</li>
           <li>During his Elemental Burst, Xiao is vulnerable to damage and knockback.
             Hence, it is advisable to pair him with interruption resistance supports
-            such as Xingqiu or shielders.</li>
+            such as Xingqiu or Shielders.</li>
         </ul>
       </td>
     </tr>

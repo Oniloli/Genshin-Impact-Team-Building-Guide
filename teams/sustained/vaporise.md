@@ -496,6 +496,7 @@ Sucrose Burst &gt; Bennett Burst &gt; Sucrose Skill &gt; Xingqiu Burst &gt; Xinq
 * You then use Bennett's Elemental Burst hitting the enemy and applying pyro for Sucrose's Burst which will then infuse with.
 * Quickly switch back to Sucrose and use her Elemental Skill. She will buff her team with Elemental Mastery and if she has a 4-set VV equipped she will also reduce the enemies Pyro Resistance by 40%.
 * Cast Xingqiu's Elemental Burst and then cast is Elemental Skill. Since Sucrose's Burst is still active his E will Vaporize multiplying it's Damage by 2.0x.
-* 
+* Cast Diluc's Elemental Burst to infuse his Normal Attacks with Pyro. Sucrose's Burst will have expired before 
+
 
 
