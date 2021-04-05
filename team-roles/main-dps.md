@@ -36,12 +36,14 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Diluc primarily deals pyro damage from his skill, and his burst that infuses
-            his normal and charged attacks with pyro damage.</li>
+          <li>Diluc primarily deals pyro damage from his skill, and his burst that <b>infuses</b> his <b>Normal</b> and<b> Charged</b> attacks
+            with <b>Pyro Damage.</b>
+          </li>
           <li>His constant pyro application synergises well with supports that offer
-            frequent elemental application. A notable example is Xingqiu for vaporize.</li>
-          <li>Vaporize can be further boosted by supports that boosts Diluc&apos;s Elemental
-            Mastery or shreds an enemy&apos;s Elemental Resistance.</li>
+            frequent elemental application. A notable example is <b>Xingqiu</b> for <b>Vaporize.</b> 
+          </li>
+          <li>Vaporize can be further <b>boosted</b> by supports that boosts Diluc&apos;s <b>Elemental Mastery</b> or <b>shreds an enemy&apos;s Elemental Resistance.</b>
+          </li>
         </ul>
       </td>
     </tr>
@@ -53,11 +55,13 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Razor is a selfish DPS that uses normal attacks to deal physical damage.</li>
-          <li>He pairs well with characters who can apply cryo off-field to maintain
-            a superconduct status on enemies. He also pairs well with off-field healing
-            due to his inability to swap out during his burst.</li>
-          <li>Electro Energy Batteries are strongly advised to maintain high burst uptime.</li>
+          <li>Razor is a<b> Selfish DPS</b> that uses normal attacks to deal <b>Physical Damage.</b>
+          </li>
+          <li>He pairs well with characters who can apply <b>Cryo off-field</b> to maintain
+            a <b>Superconduct</b> status on enemies. He also pairs well with off-field
+            healing due to his <b>inability to swap</b> out during his burst.</li>
+          <li>Electro <b>Energy Batteries</b> are strongly advised to maintain high burst
+            uptime.</li>
         </ul>
       </td>
     </tr>
