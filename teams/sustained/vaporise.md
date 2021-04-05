@@ -505,7 +505,7 @@ E = Elemental Skill
 
 * A &gt; E &gt; AA &gt; E &gt; AA &gt; E &gt; AA
 
-You use 2 Normal Attacks after each Elemental Skill to make sure the Hydro Applications are consistent, vaporizing every single hit from his normal attacks and elemental skills.
+You use 2 Normal Attacks after each Elemental Skill to ensure Hydro Applications are consistent, vaporizing every single hit from his normal attacks and elemental skills.
 
 
 
