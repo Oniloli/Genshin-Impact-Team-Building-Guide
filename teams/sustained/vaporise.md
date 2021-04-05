@@ -183,7 +183,9 @@ By **increasing** Diluc's **Elemental Mastery** he can **increase the damage mul
           <li>While Klee is strong with Xingqiu, he <b>can&apos;t</b> apply Hydro fast
             enough to keep up with Klee&apos;s <b>rapid pyro application.</b> This causes
             a <b>loss</b> in DPS as Xingqiu will vaporize instead of Klee.</li>
-          <li></li>
+          <li>She can work very well with <b>Mona</b> for <b>increasing</b> her <b>Raw Pyro Damage</b> with
+            the <b>Omen Debuff.</b>
+          </li>
         </ul>
       </td>
     </tr>
