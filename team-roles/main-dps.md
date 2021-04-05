@@ -34,15 +34,14 @@ It's **recommended** that you Invest on your Main DPS first and only put **minim
         <br /><a href="../characters/pyro.md#diluc">Diluc</a>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
-          <li>Diluc is a sustained DPS that focuses purely on Pyro damage from each
-            part of his kit. His Burst <b>infuses</b> his <b>Normal and Charged</b> attacks
-            with <b>Pyro damage</b> and combos well with his Elemental skill in DPS rotations.</li>
-          <li>Thanks to his constant Pyro DPS, Diluc scales extremely well with supports
-            that can enable a high frequency of Elemental Reactions, typically <b>Vaporize</b>,
-            such as Xingqiu, and can be further boosted by supports that boost his <b>Elemental Mastery</b> or
-            shreds <b>Elemental resistances.</b>
-          </li>
+          <li>Diluc primarily deals pyro damage from his skill, and his burst that infuses
+            his normal and charged attacks with pyro damage.</li>
+          <li>His constant pyro application synergises well with supports that offer
+            frequent elemental application. A notable example is Xingqiu for vaporize.</li>
+          <li>Vaporize can be further boosted by supports that boosts Diluc&apos;s Elemental
+            Mastery or shreds an enemy&apos;s Elemental Resistance.</li>
         </ul>
       </td>
     </tr>
