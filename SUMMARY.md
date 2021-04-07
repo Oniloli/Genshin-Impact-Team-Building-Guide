@@ -26,7 +26,7 @@
   * [Burst \(Quickswap\)](team-roles/untitled/burst-quickswap.md)
   * [Off-field](team-roles/untitled/off-field.md)
 * [Support](team-roles/support/README.md)
-  * [Buffer](team-roles/support/burst.md)
+  * [Buffer/Debuffer](team-roles/support/burst.md)
   * [Crowd Control \(CC\)](team-roles/support/cc.md)
   * [Energy Battery](team-roles/support/battery.md)
   * [Survival](team-roles/support/utility.md)

@@ -1,6 +1,6 @@
-# Buffer
+# Buffer/Debuffer
 
-Buffers are supports where their skills can **directly boost** the damage of your Main DPS. The buffs can either be from **Elemental Bursts** or **Elemental Skills.** Most of these Skills have **other effects** other than just buffing damage such as Healing, Shielding, Crowd Control etc.
+Buffer/Debuffers are supports where their skills can **directly boost** the damage of your Main DPS. The buffs can either be from **Elemental Bursts** or **Elemental Skills.** Most of these Skills have **other effects** other than just buffing damage such as Healing, Shielding, Crowd Control etc.
 
 The damage increase can come in the form of either **Increasing** the **Stats** that your characters have which is a **Buff** or **Decreasing** the **Stats** of your enemies which is a **Debuff**. Depending on the characters you use specific character stats can be buffed or specific enemy stats can be debuffed. Some characters **gain the ability** to Buff/Debuff through **constellations.**
 
@@ -32,14 +32,58 @@ Superconduct Reaction is the only elemental reaction to **debuff** enemies. It r
 
 
 
-## List of Buffer Characters <a id="list-of-burst-sub-dps-characters"></a>
+## List of Buffer/Debuffer Characters <a id="list-of-burst-sub-dps-characters"></a>
 
 {% hint style="danger" %}
 This list will **only** include characters that can Buff or Debuff through **Talents/Constellations** and **not** through **Artifacts** and **Superconduct.**
 {% endhint %}
 
-| ​Title | ​Title |
-| :--- | :--- |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This guy uses this that and this. watch out for this as it doesnt work sometimes. you can make use of this and this combo blah blah blah. typing this is a waste of time omfg help me! |
-| ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MW6Wy1uez9Det_qarNh%2F-MWRyHm4saCxH-MmKFmu%2F-MWS4pUrKAMDACt8MmDc%2Fui_avataricon_aether.png?alt=media&token=c8dd0c4b-b055-4182-90c9-13c100f5f64f) Example Character | This retard needs abyss help! |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#x200B;Title</th>
+      <th style="text-align:left">&#x200B;Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_zhongli.png"
+        alt/>Zhongli</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Zhongli&apos;s Shield while being extremely strong and protects your character
+            from all sorts of damage can also Debuff Enemies.</li>
+          <li>Any enemy that&apos;s close to your Active Character while his shield
+            is active is hit by a 20% Universal Resistance Debuff. This debuff reduces
+            resistance on everything, from Physical to Elemental including ones that
+            you can&apos;t normally reduce like Geo and Anemo Resistance.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="../../.gitbook/assets/ui_avataricon_diona.png"
+        alt/>Diona</td>
+      <td style="text-align:left">Diona has a passive talent</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
