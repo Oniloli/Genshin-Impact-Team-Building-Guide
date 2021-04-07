@@ -4,7 +4,7 @@
 This is just a **Meta Team Comp Example.** You **do not** have to follow this comp as the meta **constantly changes.** In the end, it is encouraged to play the comp that **you want.**
 {% endhint %}
 
-This comp focuses on the **Vaporize Reaction** with Diluc and Xingqiu combo with a focus on **vaporizing** every one of Diluc’s **Elemental Skill Taps** and his **Auto Attacks** when possible resulting in a constant **1.5x Damage Multiplier** on Diluc’s attacks.
+This comp focuses on the **Vaporize Reaction** with Pyro DPS and Hydro Support combo with a focus on **vaporizing** every one of Diluc’s **Elemental Skill Taps** and his **Auto Attacks** when possible resulting in a constant **1.5x Damage Multiplier** on Diluc’s attacks.
 
 <table>
   <thead>
