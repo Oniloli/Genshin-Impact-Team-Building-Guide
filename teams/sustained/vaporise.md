@@ -488,18 +488,20 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
   </tbody>
 </table>
 
-## Damage Rotation
+## Team Rotation
 
-With all of your characters Elemental Bursts fully charged the initial damage rotation will be:  
-  
-Sucrose Burst &gt; Bennett Burst &gt; Sucrose Skill &gt; Xingqiu Burst &gt; Xinqiu Skill &gt; Diluc Burst &gt; Diluc Skill/Normal attack combo
 
-* First you cast Sucrose's Elemental Burst. It has an **Activation Delay** because she throws a bottle on the ground which summons the attack. This allows you to apply an element before the first hit.
-* You then use Bennett's Elemental Burst hitting the enemy and applying pyro for Sucrose's Burst which will then infuse with.
-* Quickly switch back to Sucrose and use her Elemental Skill. She will buff her team with Elemental Mastery and if she has a 4-set VV equipped she will also reduce the enemies Pyro Resistance by 40%.
-* Cast Xingqiu's Elemental Burst and then cast is Elemental Skill. Since Sucrose's Burst is still active his E will Vaporize multiplying it's Damage by 2.0x.
-* Cast Diluc's Elemental Burst to infuse his Normal Attacks with Pyro. Sucrose's Burst will have expired before hand. Be sure that there is Hydro applied on the Enemy before casting his bust.
-* You then start using Diluc's Elemental Skill/Normal Attack Weave combo.
+
+With all of your characters’ Elemental Bursts fully charged, the team rotation will be as so:
+
+Sucrose Burst &gt; Bennett Burst &gt; Sucrose Skill &gt; Xingqiu Burst &gt; Xingqiu Skill &gt; Diluc Burst &gt; Diluc Skill/Normal attack combo
+
+1. Cast Sucrose's Elemental Burst. It has an Activation Delay because she hurls a vial to summon her butterfly. This allows you to infuse an element with the next attack.
+2. Next, cast Bennett's Elemental Burst to apply Pyro that will meld with Sucrose’s Burst.
+3. Swap back to Sucrose for her Elemental Skill to buff the team with Elemental Mastery and reduce enemies’ Pyro resistance with a 4 set Viridescent Venerer.
+4. Activate Xingqiu's Elemental Burst followed by his Elemental Skill. Sucrose's active Burst enables his Skill to Vaporize, multiplying its Damage by 2.0x.
+5. Trigger Diluc's Elemental Burst to infuse his Normal Attacks with Pyro. Be sure that the Enemy is affected by Hydro before casting his burst.
+6. Start on Diluc's Elemental Skill/Normal Attack Weave combo.
 
 Diluc's Elemental Skill/Normal Attack combo is as follows:  
 A = 1 Normal Attack  
