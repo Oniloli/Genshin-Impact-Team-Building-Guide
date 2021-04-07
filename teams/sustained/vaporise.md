@@ -490,7 +490,15 @@ Bennet is also one of the **Best Energy Batteries** in the game. His Tap E gives
 
 ## Team Rotation
 
+{% hint style="info" %}
+Diluc's Elemental Skill/Normal Attack combo is as follows:  
+A = 1 Normal Attack  
+E = Elemental Skill
 
+* A &gt; E &gt; AA &gt; E &gt; AA &gt; E &gt; AA
+
+You use 2 Normal Attacks after each Elemental Skill to ensure that Hydro Applications are consistent, vaporizing every single hit from his normal attacks and elemental skills.
+{% endhint %}
 
 With all of your characters’ Elemental Bursts fully charged, the team rotation will be as so:
 
@@ -502,14 +510,6 @@ Sucrose Burst &gt; Bennett Burst &gt; Sucrose Skill &gt; Xingqiu Burst &gt; Xing
 4. Activate Xingqiu's Elemental Burst followed by his Elemental Skill. Sucrose's active Burst enables his Skill to Vaporize, multiplying its Damage by 2.0x.
 5. Trigger Diluc's Elemental Burst to infuse his Normal Attacks with Pyro. Be sure that the Enemy is affected by Hydro before casting his burst.
 6. Start on Diluc's Elemental Skill/Normal Attack Weave combo.
-
-Diluc's Elemental Skill/Normal Attack combo is as follows:  
-A = 1 Normal Attack  
-E = Elemental Skill
-
-* A &gt; E &gt; AA &gt; E &gt; AA &gt; E &gt; AA
-
-You use 2 Normal Attacks after each Elemental Skill to ensure that Hydro Applications are consistent, vaporizing every single hit from his normal attacks and elemental skills.
 
 
 

@@ -1,8 +1,8 @@
 # Main DPS
 
-This the one of the core roles you can have for your entire party. In teams with a Sustained DPS they will be characters that will be doing **almost all the DMG** output in your team. They will deal their damage **consistently** over time through combos depending on which character you are playing.
+Main DPS is one of the core roles your party can have. They will have the largest contribution to the team's damage output by consistently dishing out damage.
 
-The main damage source for a Sustained DPS is normally their **Normal** and/or their **Charged attacks**. They can be boosted by elemental reactions and/or from their own elemental skills and supports.
+Main DPS' damage source is frequently normal and/or charged attacks, boosted by elemental reactions from their supports.
 
 Compared to a Burst Main DPS Team a Sustained DPS Team doesn't need as much investment to perform well because of their DPS consistency. Sustained Main DPS are also easier to play since you don't have to worry about **Energy** on their Elemental Bursts as much, and their DPS combos are simple and easy to grasp.
 
@@ -12,10 +12,10 @@ Stuff about Selfish dps \(xiao here\) can't be asked to type it for now...
 
 ---
 
-There are characters where they can perform both a Sustained and Burst role but they typically lean better on one or the other.
+While there are characters that can function as a main DPS or burst support, most typically trend toward one or the other.
 
 {% hint style="info" %}
-It's **recommended** that you Invest on your Main DPS first and only put **minimal investment** on your **support**. The support characters in a Sustained Team can still **perform well** with little investment since their skills only used are used to **buff** your Main DPS. You can invest more in supports once you are **satisfied** with the gear your Main DPS has.
+It is recommended to invest in your Main DPS first as they deal the bulk of the team's damage. Supports only require minimal investments \(e.g. getting the recommended Energy Recharge\). Further investment into supports begin once the main DPS' gear is satisfactory to your liking.
 {% endhint %}
 
 ## List of Sustained DPS Characters
