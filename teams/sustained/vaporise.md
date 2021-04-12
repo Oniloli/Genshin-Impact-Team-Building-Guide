@@ -40,7 +40,8 @@ This comp focuses on the **Vaporize Reaction** with Pyro DPS and Hydro Support c
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
-        <p>(Healer, Buffer,
+        <p>Bennett
+          <br />(Healer, Buffer,
           <br />Energy Battery)</p>
       </td>
     </tr>
@@ -69,7 +70,7 @@ This comp focuses on the **Vaporize Reaction** with Pyro DPS and Hydro Support c
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_diona.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Diona</p>
         <p>(Shielder, Healer)</p>
       </td>
     </tr>

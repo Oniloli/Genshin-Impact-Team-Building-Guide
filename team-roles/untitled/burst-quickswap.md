@@ -1,4 +1,4 @@
-# Burst \(Quickswap\)
+# Burst
 
 
 

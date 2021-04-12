@@ -1,4 +1,4 @@
-# Electro
+# Electro-charged
 
 Summary of what this comp does?
 
@@ -7,7 +7,7 @@ Summary of what this comp does?
     <tr>
       <th style="text-align:center">DPS</th>
       <th style="text-align:center">Sub DPS</th>
-      <th style="text-align:center">Support</th>
+      <th style="text-align:center">Sub DPS/Support</th>
       <th style="text-align:center">Support</th>
     </tr>
   </thead>
@@ -15,15 +15,15 @@ Summary of what this comp does?
     <tr>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_tartaglia.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Tartaglia</p>
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_fischl.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Fischl</p>
         <p>(Off-field)</p>
       </td>
       <td style="text-align:center">
@@ -31,13 +31,17 @@ Summary of what this comp does?
         <br />Example Character</td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt/>
         </p>
-        <p>Example Character</p>
+        <p>Bennett
+          <br />(Healer, Buffer,
+          <br />Energy Battery)</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_keqing.png" alt/>
+        <br />Keqing</td>
       <td style="text-align:center">
         <p>
           <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
@@ -53,10 +57,9 @@ Summary of what this comp does?
       </td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
-        </p>
-        <p>Example Character</p>
-        <p>(Shielder)</p>
+          <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
+          <br />Jean</p>
+        <p>(Healer, Debuffer)</p>
       </td>
     </tr>
     <tr>
