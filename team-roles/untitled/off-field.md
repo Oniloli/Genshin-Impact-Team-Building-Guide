@@ -1,11 +1,11 @@
 # Off-field
 
-This the one of the core roles you can have for your entire party. Off-field Sub DPS are characters that do not spend alot of time on the field and are only switched in for their skills. When they use their skills they will stay active on the field even when the character itself is off-field.
+Off-field Sub DPS support are characters with little field presence as they are quickly swapped in for their skills/bursts and out. Their skills/bursts remain active on the field, dealing damage even when the characters are off-field.
 
-The main damage source for Off-field Sub DPS is mainly their **Elemental Skill** and **Elemental Burst.** Most of these characters will deal very little damage with their normal attacks. Because their skills stay active off-field it makes them perfect for **Supporting a Main DPS** by applying elements to create **Elemental Reactions.**
+Off-field Sub DPS are not built around normal attacks as the bulk of their damage comes from their Elemental Skill/Elemental Burst. Ideally, they synergise with the team by creating opportunities for Elemental Reactions, or dealing massive damage through Elemental Reactions.
 
 {% hint style="info" %}
-You **do not** need to put in a lot of **investment** to make them good a Sub DPS. As long as they can frequently cast their Skills and Burst that is already more than enough for your main DPS. It's recommended to start investing to increase their DPS once your Main DPS gets into a level you are **satisfied** with.
+It is important that Off-field Sub DPS have sufficient Energy Recharge if they are dependent on their Elemental Burst. It is recommended to start investments once your Main DPS’ stats are satisfactory to your liking.
 {% endhint %}
 
 ## List of **Off-field Sub** DPS Characters

@@ -85,7 +85,7 @@ This comp focuses on the **Vaporize Reaction** with Pyro DPS and Hydro Support c
       <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/ui_avataricon_aether.png" alt/>
+          <img src="../../.gitbook/assets/ui_avataricon_lumine_anemo.png" alt/>
         </p>
         <p>Anemo Traveler</p>
         <p>(CC, Debuffer)</p>

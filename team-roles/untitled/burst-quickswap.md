@@ -149,6 +149,23 @@ Because of amount of **investment** you would put in **most** Burst DPS Teams is
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../../.gitbook/assets/ui_avataricon_aether_geo.png" alt/>
+        </p>
+        <p>Geo Traveler</p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Geo Traveler has a strong Multi-hit Elemental Burst that can also provide
+            CC.</li>
+          <li>B</li>
+          <li>As a Geo burst DPS, his burst only scales with generic buffers/debuffers
+            and Geo Resonance.</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
