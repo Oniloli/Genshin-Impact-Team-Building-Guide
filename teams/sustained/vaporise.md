@@ -299,7 +299,7 @@ Her **Elemental Burst** is also very strong because it has the ability to Infuse
           <li>His shield&apos;s main benefit besides shielding is the Resistance Reduction.
             Enemies near Zhongli&apos;s shield receive a <b>20% Resistance Reduction to all types of damage.</b> It&apos;s
             also the only shield in the game that has 100% uptime. It can be <b>re-cast</b> every <b>12 seconds</b> and
-            its <b>duration is 16 seconds.</b> 
+            its <b>duration is 20 seconds.</b> 
           </li>
           <li>Although Zhongli reduces resistances by just 20% compared to 40% with
             Sucrose, his resistance reduction comes <b>passively</b>, and <b>doesn&apos;t require you to switch</b> to
